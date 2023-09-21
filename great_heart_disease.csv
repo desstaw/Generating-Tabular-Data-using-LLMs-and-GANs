@@ -1,0 +1,920 @@
+Age,Sex,ChestPainType,RestingBloodPressure,Cholesterol,FastingBloodSugar,RestingECG,MaxHeartRate,ExerciseAngina,Oldpeak,PeakExerciseSlope,HeartDisease
+38.0,male,Asymptomatic,130.0,233.0,FastingBS <= 120 mg/dl,Normal,150.0,Yes,2.0,Flat,Present
+51.0,male,Asymptomatic,120.0,0.0,FastingBS <= 120 mg/dl,Normal,125.0,No,2.0,Flat,Present
+57.0,male,Asymptomatic,120.0,0.0,FastingBS <= 120 mg/dl,Normal,111.0,Yes,0.0,Flat,Present
+52.0,male,Atypical Angina,120.0,215.0,FastingBS <= 120 mg/dl,Normal,138.0,No,0.0,Up,Absent
+37.0,male,Atypical Angina,130.0,198.0,FastingBS <= 120 mg/dl,Normal,150.0,No,0.0,Up,Absent
+64.0,male,Asymptomatic,110.0,0.0,FastingBS <= 120 mg/dl,Normal,72.0,Yes,1.5,Flat,Present
+59.0,male,Asymptomatic,120.0,0.0,FastingBS > 120 mg/dl,Normal,105.0,Yes,0.0,Flat,Present
+52.0,male,Atypical Angina,130.0,195.0,FastingBS <= 120 mg/dl,Normal,140.0,No,0.0,Up,Absent
+41.0,male,Atypical Angina,120.0,204.0,FastingBS <= 120 mg/dl,Normal,185.0,No,0.0,Up,Absent
+64.0,male,Asymptomatic,140.0,327.0,FastingBS > 120 mg/dl,Normal,124.0,No,1.2,Flat,Present
+49.0,male,Asymptomatic,140.0,223.0,FastingBS <= 120 mg/dl,Normal,152.0,No,1.0,Flat,Absent
+63.0,male,Asymptomatic,130.0,0.0,FastingBS > 120 mg/dl,Normal,88.0,No,2.0,Flat,Present
+48.0,female,Asymptomatic,150.0,0.0,FastingBS > 120 mg/dl,Normal,110.0,Yes,1.5,Flat,Present
+61.0,male,Asymptomatic,160.0,0.0,FastingBS > 120 mg/dl,Normal,123.0,Yes,1.0,Down,Present
+51.0,male,Asymptomatic,115.0,0.0,FastingBS > 120 mg/dl,Normal,98.0,No,0.0,Flat,Present
+45.0,male,Non-Anginal Pain,130.0,215.0,FastingBS <= 120 mg/dl,Normal,178.0,No,0.0,Up,Absent
+55.0,male,Asymptomatic,128.0,256.0,FastingBS > 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,143.0,Yes,1.4,Flat,Present
+57.0,male,Asymptomatic,140.0,223.0,FastingBS <= 120 mg/dl,Normal,119.0,Yes,1.0,Flat,Present
+41.0,male,Atypical Angina,120.0,209.0,FastingBS <= 120 mg/dl,Normal,174.0,No,0.0,Up,Absent
+74.0,male,Asymptomatic,110.0,258.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,173.0,No,1.8,Flat,Present
+41.0,male,Non-Anginal Pain,120.0,271.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,166.0,No,1.2,Up,Absent
+63.0,male,Asymptomatic,130.0,0.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,115.0,No,0.0,Flat,Present
+55.0,male,Non-Anginal Pain,115.0,0.0,FastingBS > 120 mg/dl,Normal,80.0,No,0.5,Flat,Present
+41.0,male,Atypical Angina,145.0,325.0,FastingBS <= 120 mg/dl,Normal,140.0,No,0.0,Up,Absent
+34.0,male,Atypical Angina,120.0,194.0,FastingBS <= 120 mg/dl,Normal,188.0,No,0.0,Up,Absent
+56.0,male,Asymptomatic,144.0,228.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,110.0,No,0.0,Flat,Present
+65.0,male,Asymptomatic,142.0,246.0,FastingBS > 120 mg/dl,ST-T wave abnormality,117.0,Yes,1.6,Flat,Present
+69.0,male,Asymptomatic,120.0,0.0,FastingBS <= 120 mg/dl,Normal,110.0,Yes,0.0,Flat,Present
+56.0,male,Non-Anginal Pain,130.0,289.0,FastingBS <= 120 mg/dl,Normal,140.0,Yes,1.6,Flat,Present
+63.0,female,Asymptomatic,142.0,271.0,FastingBS <= 120 mg/dl,ST-T wave abnormality,111.0,Yes,2.0,Flat,Absent
+43.0,female,Atypical Angina,130.0,271.0,FastingBS <= 120 mg/dl,Normal,162.0,No,0.0,Up,Absent
+57.0,male,Asymptomatic,145.0,0.0,FastingBS <= 120 mg/dl,Normal,125.0,Yes,1.5,Flat,Present
+67.0,male,Asymptomatic,120.0,0.0,FastingBS <= 120 mg/dl,ST-T wave abnormality,117.0,Yes,0.2,Up,Present
+63.0,male,Asymptomatic,140.0,0.0,FastingBS > 120 mg/dl,Normal,97.0,Yes,1.0,Flat,Present
+44.0,male,Atypical Angina,120.0,243.0,FastingBS <= 120 mg/dl,Normal,165.0,No,0.0,Up,Absent
+59.0,male,Asymptomatic,130.0,0.0,FastingBS > 120 mg/dl,Normal,120.0,No,0.0,Flat,Present
+48.0,male,Asymptomatic,125.0,274.0,FastingBS <= 120 mg/dl,Normal,150.0,Yes,2.0,Flat,Present
+51.0,male,Asymptomatic,128.0,234.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,174.0,No,0.0,Flat,Absent
+54.0,male,Atypical Angina,120.0,160.0,FastingBS <= 120 mg/dl,Normal,120.0,No,0.0,Up,Absent
+53.0,female,Non-Anginal Pain,130.0,211.0,FastingBS <= 120 mg/dl,Normal,169.0,No,0.0,Up,Absent
+33.0,male,Atypical Angina,140.0,235.0,FastingBS <= 120 mg/dl,Normal,185.0,No,0.0,Up,Absent
+51.0,female,Atypical Angina,110.0,215.0,FastingBS <= 120 mg/dl,Normal,154.0,No,0.0,Up,Absent
+55.0,male,Asymptomatic,120.0,0.0,FastingBS > 120 mg/dl,ST-T wave abnormality,98.0,Yes,0.0,Flat,Present
+57.0,male,Asymptomatic,120.0,0.0,FastingBS <= 120 mg/dl,Normal,140.0,No,1.0,Up,Absent
+50.0,male,Atypical Angina,125.0,0.0,FastingBS <= 120 mg/dl,Normal,120.0,Yes,0.0,Flat,Absent
+58.0,male,Asymptomatic,140.0,248.0,FastingBS > 120 mg/dl,Normal,105.0,Yes,2.0,Flat,Present
+43.0,male,Atypical Angina,150.0,240.0,FastingBS <= 120 mg/dl,Normal,161.0,No,0.0,Up,Absent
+61.0,male,Asymptomatic,110.0,0.0,FastingBS > 120 mg/dl,Normal,98.0,Yes,1.5,Flat,Present
+57.0,male,Non-Anginal Pain,130.0,197.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,157.0,No,0.0,Up,Present
+55.0,male,Atypical Angina,132.0,292.0,FastingBS > 120 mg/dl,Normal,142.0,No,0.0,Up,Absent
+55.0,male,Asymptomatic,120.0,0.0,FastingBS <= 120 mg/dl,Normal,122.0,Yes,0.0,Flat,Present
+61.0,male,Asymptomatic,160.0,214.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,115.0,Yes,1.5,Flat,Present
+59.0,male,Asymptomatic,152.0,0.0,FastingBS > 120 mg/dl,ST-T wave abnormality,118.0,Yes,0.0,Flat,Present
+60.0,male,Asymptomatic,160.0,193.0,FastingBS <= 120 mg/dl,Normal,98.0,Yes,2.0,Flat,Present
+35.0,male,Asymptomatic,120.0,0.0,FastingBS <= 120 mg/dl,Normal,150.0,Yes,0.0,Flat,Present
+54.0,male,Asymptomatic,120.0,212.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,112.0,Yes,2.0,Flat,Present
+59.0,male,Asymptomatic,120.0,258.0,FastingBS > 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,150.0,Yes,2.0,Flat,Present
+55.0,male,Asymptomatic,140.0,256.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,122.0,Yes,0.0,Flat,Present
+36.0,male,Non-Anginal Pain,130.0,263.0,FastingBS <= 120 mg/dl,Normal,165.0,No,0.0,Up,Absent
+43.0,male,Asymptomatic,140.0,222.0,FastingBS <= 120 mg/dl,Normal,184.0,No,0.0,Up,Absent
+59.0,male,Asymptomatic,130.0,0.0,FastingBS <= 120 mg/dl,ST-T wave abnormality,128.0,Yes,0.0,Flat,Present
+42.0,male,Non-Anginal Pain,140.0,215.0,FastingBS <= 120 mg/dl,Normal,170.0,No,0.0,Up,Absent
+35.0,male,Non-Anginal Pain,130.0,277.0,FastingBS <= 120 mg/dl,ST-T wave abnormality,170.0,No,0.0,Up,Absent
+40.0,male,Atypical Angina,120.0,260.0,FastingBS <= 120 mg/dl,Normal,140.0,No,0.0,Up,Absent
+55.0,male,Atypical Angina,120.0,240.0,FastingBS <= 120 mg/dl,Normal,155.0,Yes,0.0,Up,Absent
+38.0,male,Asymptomatic,135.0,0.0,FastingBS <= 120 mg/dl,Normal,115.0,No,0.0,Flat,Present
+60.0,male,Asymptomatic,115.0,0.0,FastingBS <= 120 mg/dl,Normal,120.0,Yes,1.5,Flat,Present
+53.0,male,Asymptomatic,142.0,236.0,FastingBS <= 120 mg/dl,Normal,106.0,Yes,2.0,Flat,Present
+58.0,male,Asymptomatic,140.0,248.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,140.0,Yes,1.5,Flat,Present
+53.0,male,Asymptomatic,115.0,0.0,FastingBS <= 120 mg/dl,Normal,106.0,Yes,1.5,Flat,Present
+52.0,female,Atypical Angina,150.0,238.0,FastingBS <= 120 mg/dl,Normal,154.0,No,0.0,Up,Absent
+47.0,female,Asymptomatic,140.0,297.0,FastingBS <= 120 mg/dl,Normal,160.0,No,0.0,Up,Absent
+55.0,male,Asymptomatic,150.0,0.0,FastingBS <= 120 mg/dl,Normal,108.0,Yes,2.0,Flat,Present
+43.0,male,Asymptomatic,110.0,260.0,FastingBS <= 120 mg/dl,Normal,130.0,Yes,2.0,Flat,Present
+54.0,male,Asymptomatic,135.0,230.0,FastingBS <= 120 mg/dl,Normal,130.0,Yes,1.0,Flat,Present
+51.0,male,Asymptomatic,120.0,0.0,FastingBS <= 120 mg/dl,Normal,96.0,Yes,1.0,Flat,Present
+64.0,female,Non-Anginal Pain,140.0,269.0,FastingBS <= 120 mg/dl,Normal,160.0,No,0.0,Up,Absent
+50.0,female,Atypical Angina,140.0,220.0,FastingBS <= 120 mg/dl,Normal,150.0,No,0.0,Up,Absent
+51.0,male,Asymptomatic,115.0,0.0,FastingBS <= 120 mg/dl,Normal,130.0,Yes,1.5,Flat,Present
+59.0,male,Asymptomatic,124.0,0.0,FastingBS <= 120 mg/dl,ST-T wave abnormality,115.0,No,0.0,Flat,Present
+52.0,male,Asymptomatic,130.0,236.0,FastingBS <= 120 mg/dl,Normal,140.0,No,0.0,Up,Absent
+34.0,male,Non-Anginal Pain,130.0,295.0,FastingBS <= 120 mg/dl,Normal,172.0,No,0.0,Up,Absent
+34.0,male,Non-Anginal Pain,120.0,213.0,FastingBS <= 120 mg/dl,Normal,163.0,No,0.0,Up,Absent
+54.0,male,Atypical Angina,120.0,253.0,FastingBS <= 120 mg/dl,Normal,155.0,No,0.0,Up,Absent
+52.0,male,Asymptomatic,160.0,267.0,FastingBS <= 120 mg/dl,Normal,118.0,Yes,1.5,Flat,Present
+54.0,male,Asymptomatic,110.0,264.0,FastingBS <= 120 mg/dl,Normal,140.0,Yes,1.0,Flat,Present
+63.0,male,Asymptomatic,130.0,0.0,FastingBS <= 120 mg/dl,ST-T wave abnormality,138.0,Yes,0.0,Flat,Present
+58.0,female,Asymptomatic,120.0,0.0,FastingBS > 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,157.0,No,0.3,Up,Absent
+43.0,male,Asymptomatic,120.0,0.0,FastingBS <= 120 mg/dl,Normal,120.0,Yes,0.0,Up,Present
+62.0,male,Non-Anginal Pain,105.0,0.0,FastingBS <= 120 mg/dl,Normal,112.0,Yes,2.5,Down,Present
+38.0,male,Asymptomatic,160.0,0.0,FastingBS <= 120 mg/dl,Normal,122.0,Yes,2.0,Flat,Present
+39.0,female,Non-Anginal Pain,120.0,213.0,FastingBS <= 120 mg/dl,Normal,148.0,No,0.0,Up,Absent
+47.0,male,Atypical Angina,140.0,264.0,FastingBS <= 120 mg/dl,Normal,175.0,No,0.0,Flat,Present
+64.0,male,Asymptomatic,144.0,330.0,FastingBS > 120 mg/dl,ST-T wave abnormality,132.0,Yes,2.0,Flat,Present
+54.0,female,Atypical Angina,120.0,241.0,FastingBS <= 120 mg/dl,Normal,120.0,No,0.0,Up,Absent
+48.0,male,Non-Anginal Pain,110.0,196.0,FastingBS <= 120 mg/dl,Normal,164.0,No,0.0,Up,Absent
+67.0,male,Atypical Angina,130.0,204.0,FastingBS <= 120 mg/dl,Normal,168.0,No,0.0,Up,Absent
+55.0,male,Asymptomatic,120.0,0.0,FastingBS <= 120 mg/dl,Normal,135.0,Yes,1.5,Flat,Present
+44.0,male,Asymptomatic,110.0,264.0,FastingBS <= 120 mg/dl,Normal,150.0,Yes,1.0,Flat,Present
+46.0,male,Asymptomatic,110.0,0.0,FastingBS <= 120 mg/dl,Normal,138.0,No,0.0,Up,Present
+67.0,male,Asymptomatic,160.0,0.0,FastingBS > 120 mg/dl,ST-T wave abnormality,105.0,No,0.0,Flat,Present
+61.0,male,Asymptomatic,125.0,0.0,FastingBS <= 120 mg/dl,Normal,111.0,Yes,0.0,Flat,Present
+53.0,male,Asymptomatic,135.0,0.0,FastingBS > 120 mg/dl,Normal,130.0,No,1.5,Up,Present
+57.0,male,Asymptomatic,120.0,0.0,FastingBS <= 120 mg/dl,Normal,99.0,Yes,2.0,Flat,Present
+48.0,male,Asymptomatic,120.0,341.0,FastingBS <= 120 mg/dl,Normal,105.0,Yes,0.0,Flat,Present
+56.0,male,Non-Anginal Pain,140.0,0.0,FastingBS > 120 mg/dl,Normal,117.0,Yes,2.0,Flat,Present
+59.0,male,Asymptomatic,135.0,0.0,FastingBS <= 120 mg/dl,Normal,130.0,No,0.0,Flat,Present
+41.0,male,Atypical Angina,130.0,204.0,FastingBS <= 120 mg/dl,Normal,142.0,No,0.0,Up,Absent
+56.0,male,Asymptomatic,130.0,0.0,FastingBS > 120 mg/dl,Normal,115.0,No,0.0,Flat,Present
+59.0,male,Asymptomatic,145.0,0.0,FastingBS <= 120 mg/dl,Normal,110.0,Yes,0.0,Flat,Present
+55.0,male,Asymptomatic,134.0,0.0,FastingBS <= 120 mg/dl,ST-T wave abnormality,120.0,Yes,0.0,Flat,Present
+56.0,male,Atypical Angina,140.0,288.0,FastingBS > 120 mg/dl,Normal,130.0,No,1.0,Flat,Present
+39.0,male,Non-Anginal Pain,120.0,195.0,FastingBS <= 120 mg/dl,Normal,180.0,No,0.0,Up,Absent
+58.0,male,Non-Anginal Pain,130.0,220.0,FastingBS <= 120 mg/dl,Normal,170.0,No,0.0,Up,Absent
+50.0,male,Asymptomatic,130.0,213.0,FastingBS <= 120 mg/dl,Normal,132.0,Yes,2.0,Flat,Present
+41.0,male,Atypical Angina,120.0,204.0,FastingBS <= 120 mg/dl,Normal,170.0,No,0.0,Up,Absent
+49.0,male,Non-Anginal Pain,120.0,209.0,FastingBS <= 120 mg/dl,Normal,170.0,No,0.0,Up,Absent
+46.0,male,Non-Anginal Pain,144.0,222.0,FastingBS <= 120 mg/dl,Normal,152.0,No,0.0,Flat,Absent
+57.0,male,Asymptomatic,160.0,288.0,FastingBS > 120 mg/dl,Normal,122.0,Yes,1.0,Flat,Present
+42.0,male,Atypical Angina,120.0,320.0,FastingBS <= 120 mg/dl,Normal,120.0,No,0.0,Up,Absent
+69.0,male,Non-Anginal Pain,115.0,0.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,140.0,No,0.0,Flat,Absent
+49.0,male,Atypical Angina,120.0,190.0,FastingBS <= 120 mg/dl,Normal,140.0,No,0.0,Up,Absent
+42.0,female,Atypical Angina,120.0,263.0,FastingBS <= 120 mg/dl,Normal,132.0,No,0.0,Up,Absent
+54.0,female,Atypical Angina,130.0,235.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,180.0,No,0.0,Up,Absent
+43.0,male,Atypical Angina,140.0,211.0,FastingBS <= 120 mg/dl,Normal,164.0,No,0.0,Up,Absent
+66.0,male,Asymptomatic,150.0,0.0,FastingBS > 120 mg/dl,Normal,112.0,Yes,1.5,Down,Present
+61.0,male,Asymptomatic,128.0,0.0,FastingBS > 120 mg/dl,ST-T wave abnormality,115.0,Yes,1.0,Flat,Present
+60.0,male,Asymptomatic,120.0,0.0,FastingBS <= 120 mg/dl,Normal,113.0,Yes,1.0,Flat,Present
+52.0,male,Asymptomatic,112.0,124.0,FastingBS > 120 mg/dl,ST-T wave abnormality,92.0,Yes,2.5,Down,Present
+58.0,male,Asymptomatic,110.0,197.0,FastingBS <= 120 mg/dl,Normal,130.0,Yes,0.0,Up,Present
+63.0,male,Asymptomatic,130.0,222.0,FastingBS <= 120 mg/dl,Normal,125.0,No,0.0,Flat,Present
+61.0,male,Asymptomatic,150.0,0.0,FastingBS > 120 mg/dl,Normal,123.0,Yes,2.4,Down,Present
+46.0,male,Asymptomatic,120.0,0.0,FastingBS <= 120 mg/dl,Normal,140.0,No,0.0,Flat,Present
+54.0,female,Atypical Angina,130.0,283.0,FastingBS <= 120 mg/dl,ST-T wave abnormality,142.0,No,1.0,Flat,Absent
+43.0,female,Atypical Angina,135.0,275.0,FastingBS <= 120 mg/dl,Normal,130.0,No,0.0,Up,Absent
+52.0,male,Asymptomatic,130.0,0.0,FastingBS > 120 mg/dl,Normal,126.0,No,0.0,Up,Absent
+50.0,male,Asymptomatic,105.0,0.0,FastingBS > 120 mg/dl,Normal,122.0,Yes,0.0,Flat,Present
+43.0,male,Asymptomatic,120.0,0.0,FastingBS <= 120 mg/dl,Normal,120.0,No,0.0,Up,Present
+52.0,male,Non-Anginal Pain,130.0,0.0,FastingBS <= 120 mg/dl,Normal,120.0,No,0.0,Up,Present
+47.0,male,Atypical Angina,125.0,295.0,FastingBS <= 120 mg/dl,Normal,138.0,No,0.0,Up,Absent
+59.0,male,Asymptomatic,133.0,0.0,FastingBS <= 120 mg/dl,Normal,120.0,Yes,0.0,Flat,Present
+52.0,male,Asymptomatic,145.0,0.0,FastingBS <= 120 mg/dl,Normal,105.0,Yes,2.0,Flat,Present
+60.0,male,Asymptomatic,140.0,282.0,FastingBS <= 120 mg/dl,Normal,130.0,No,1.5,Flat,Present
+54.0,male,Asymptomatic,115.0,0.0,FastingBS > 120 mg/dl,ST-T wave abnormality,82.0,Yes,3.0,Flat,Present
+63.0,male,Asymptomatic,130.0,214.0,FastingBS <= 120 mg/dl,Normal,137.0,Yes,0.0,Up,Absent
+46.0,male,Non-Anginal Pain,110.0,199.0,FastingBS <= 120 mg/dl,Normal,179.0,No,0.0,Up,Absent
+42.0,male,Atypical Angina,150.0,230.0,FastingBS <= 120 mg/dl,Normal,140.0,No,0.0,Up,Absent
+48.0,male,Asymptomatic,120.0,0.0,FastingBS <= 120 mg/dl,Normal,140.0,Yes,0.0,Up,Present
+59.0,male,Non-Anginal Pain,120.0,147.0,FastingBS <= 120 mg/dl,Normal,118.0,No,0.0,Up,Absent
+54.0,male,Atypical Angina,120.0,240.0,FastingBS <= 120 mg/dl,Normal,165.0,No,0.0,Up,Absent
+55.0,male,Atypical Angina,130.0,196.0,FastingBS <= 120 mg/dl,Normal,170.0,No,0.0,Up,Absent
+59.0,male,Asymptomatic,120.0,245.0,FastingBS <= 120 mg/dl,Normal,181.0,No,1.8,Up,Absent
+53.0,female,Asymptomatic,160.0,226.0,FastingBS <= 120 mg/dl,ST-T wave abnormality,168.0,No,0.0,Up,Absent
+52.0,female,Non-Anginal Pain,130.0,147.0,FastingBS <= 120 mg/dl,Normal,173.0,No,0.0,Up,Absent
+53.0,male,Asymptomatic,165.0,0.0,FastingBS > 120 mg/dl,Normal,84.0,No,0.0,Flat,Present
+62.0,male,Asymptomatic,145.0,0.0,FastingBS <= 120 mg/dl,Normal,92.0,No,0.0,Up,Present
+62.0,male,Asymptomatic,144.0,285.0,FastingBS > 120 mg/dl,Normal,109.0,Yes,3.0,Flat,Present
+55.0,male,Asymptomatic,130.0,218.0,FastingBS <= 120 mg/dl,Normal,135.0,Yes,2.0,Flat,Present
+55.0,male,Asymptomatic,140.0,275.0,FastingBS <= 120 mg/dl,Normal,105.0,Yes,1.5,Flat,Present
+59.0,male,Non-Anginal Pain,95.0,0.0,FastingBS > 120 mg/dl,Normal,132.0,No,2.2,Flat,Present
+59.0,male,Asymptomatic,130.0,0.0,FastingBS <= 120 mg/dl,ST-T wave abnormality,122.0,Yes,1.1,Flat,Present
+61.0,male,Asymptomatic,115.0,0.0,FastingBS > 120 mg/dl,Normal,116.0,No,3.0,Up,Absent
+64.0,male,Atypical Angina,130.0,215.0,FastingBS <= 120 mg/dl,ST-T wave abnormality,130.0,No,0.0,Up,Absent
+41.0,female,Non-Anginal Pain,120.0,254.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,180.0,No,0.0,Up,Absent
+57.0,male,Asymptomatic,132.0,247.0,FastingBS <= 120 mg/dl,Normal,141.0,Yes,2.0,Flat,Present
+49.0,female,Non-Anginal Pain,120.0,254.0,FastingBS <= 120 mg/dl,Normal,175.0,No,0.0,Up,Absent
+45.0,male,Non-Anginal Pain,130.0,0.0,FastingBS <= 120 mg/dl,Normal,122.0,Yes,0.0,Flat,Present
+56.0,male,Asymptomatic,125.0,0.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,120.0,No,0.0,Up,Present
+56.0,male,Asymptomatic,140.0,0.0,FastingBS <= 120 mg/dl,ST-T wave abnormality,124.0,Yes,1.5,Flat,Present
+59.0,male,Asymptomatic,130.0,0.0,FastingBS > 120 mg/dl,Normal,112.0,Yes,2.0,Flat,Present
+49.0,female,Atypical Angina,120.0,196.0,FastingBS <= 120 mg/dl,Normal,157.0,No,0.0,Up,Absent
+59.0,female,Asymptomatic,110.0,248.0,FastingBS <= 120 mg/dl,Normal,143.0,Yes,0.0,Flat,Present
+63.0,male,Atypical Angina,120.0,201.0,FastingBS <= 120 mg/dl,Normal,161.0,No,0.0,Up,Absent
+62.0,male,Asymptomatic,140.0,186.0,FastingBS > 120 mg/dl,Normal,112.0,Yes,1.5,Flat,Present
+38.0,male,Atypical Angina,120.0,263.0,FastingBS <= 120 mg/dl,Normal,138.0,No,0.0,Up,Absent
+61.0,male,Asymptomatic,140.0,0.0,FastingBS > 120 mg/dl,ST-T wave abnormality,93.0,Yes,3.5,Down,Present
+58.0,male,Asymptomatic,115.0,0.0,FastingBS <= 120 mg/dl,Normal,150.0,Yes,2.0,Flat,Present
+69.0,male,Asymptomatic,120.0,0.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,122.0,Yes,0.3,Up,Present
+59.0,male,Asymptomatic,120.0,167.0,FastingBS <= 120 mg/dl,Normal,138.0,No,0.0,Up,Absent
+51.0,female,Non-Anginal Pain,140.0,167.0,FastingBS <= 120 mg/dl,Normal,165.0,No,1.0,Down,Absent
+64.0,male,Asymptomatic,135.0,310.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,140.0,Yes,1.3,Flat,Present
+58.0,male,Asymptomatic,150.0,229.0,FastingBS > 120 mg/dl,Normal,122.0,Yes,2.0,Flat,Present
+28.0,male,Asymptomatic,120.0,238.0,FastingBS <= 120 mg/dl,Normal,175.0,No,0.0,Up,Absent
+64.0,male,Asymptomatic,130.0,0.0,FastingBS > 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,113.0,Yes,1.6,Up,Present
+50.0,male,Atypical Angina,130.0,204.0,FastingBS <= 120 mg/dl,Normal,164.0,No,0.0,Up,Absent
+63.0,male,Asymptomatic,120.0,0.0,FastingBS > 120 mg/dl,Normal,123.0,Yes,1.5,Flat,Present
+38.0,male,Asymptomatic,125.0,0.0,FastingBS <= 120 mg/dl,Normal,125.0,Yes,1.0,Flat,Present
+44.0,male,Asymptomatic,145.0,0.0,FastingBS <= 120 mg/dl,Normal,112.0,Yes,2.5,Down,Present
+58.0,female,Non-Anginal Pain,132.0,226.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,152.0,No,0.0,Up,Absent
+51.0,male,Asymptomatic,128.0,0.0,FastingBS > 120 mg/dl,ST-T wave abnormality,109.0,Yes,1.2,Flat,Present
+60.0,male,Asymptomatic,128.0,219.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,115.0,Yes,1.5,Flat,Present
+72.0,male,Asymptomatic,145.0,221.0,FastingBS > 120 mg/dl,Normal,96.0,Yes,1.8,Flat,Present
+60.0,male,Asymptomatic,120.0,193.0,FastingBS <= 120 mg/dl,ST-T wave abnormality,120.0,Yes,1.5,Flat,Present
+57.0,female,Asymptomatic,120.0,0.0,FastingBS <= 120 mg/dl,Normal,110.0,Yes,3.0,Flat,Present
+61.0,male,Asymptomatic,110.0,0.0,FastingBS > 120 mg/dl,Normal,63.0,Yes,3.0,Down,Present
+36.0,male,Atypical Angina,120.0,196.0,FastingBS <= 120 mg/dl,Normal,156.0,No,0.0,Up,Absent
+56.0,male,Non-Anginal Pain,120.0,196.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,138.0,No,0.0,Up,Absent
+53.0,female,Non-Anginal Pain,140.0,199.0,FastingBS <= 120 mg/dl,Normal,173.0,No,0.4,Up,Absent
+54.0,male,Asymptomatic,120.0,0.0,FastingBS > 120 mg/dl,Normal,134.0,No,0.2,Up,Present
+39.0,female,Non-Anginal Pain,120.0,175.0,FastingBS <= 120 mg/dl,Normal,163.0,No,0.0,Up,Absent
+71.0,male,Non-Anginal Pain,120.0,282.0,FastingBS <= 120 mg/dl,Normal,118.0,Yes,1.0,Flat,Absent
+55.0,male,Asymptomatic,150.0,222.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,125.0,Yes,1.8,Flat,Present
+50.0,male,Asymptomatic,145.0,0.0,FastingBS > 120 mg/dl,ST-T wave abnormality,105.0,Yes,0.0,Flat,Present
+45.0,male,Non-Anginal Pain,152.0,209.0,FastingBS <= 120 mg/dl,Normal,138.0,No,0.0,Up,Absent
+58.0,male,Asymptomatic,130.0,230.0,FastingBS <= 120 mg/dl,Normal,130.0,Yes,1.0,Flat,Present
+61.0,male,Asymptomatic,160.0,0.0,FastingBS > 120 mg/dl,Normal,105.0,Yes,0.7,Down,Present
+57.0,male,Asymptomatic,140.0,254.0,FastingBS <= 120 mg/dl,ST-T wave abnormality,96.0,Yes,1.5,Flat,Present
+61.0,male,Asymptomatic,140.0,0.0,FastingBS <= 120 mg/dl,Normal,105.0,Yes,1.5,Flat,Present
+54.0,female,Asymptomatic,108.0,243.0,FastingBS <= 120 mg/dl,Normal,162.0,No,0.0,Up,Absent
+61.0,male,Non-Anginal Pain,110.0,0.0,FastingBS <= 120 mg/dl,ST-T wave abnormality,125.0,Yes,1.0,Flat,Present
+60.0,male,Asymptomatic,120.0,0.0,FastingBS > 120 mg/dl,Normal,86.0,Yes,1.0,Up,Present
+59.0,male,Asymptomatic,132.0,186.0,FastingBS <= 120 mg/dl,ST-T wave abnormality,140.0,Yes,2.0,Flat,Present
+60.0,male,Asymptomatic,115.0,0.0,FastingBS <= 120 mg/dl,Normal,130.0,Yes,0.0,Flat,Present
+60.0,male,Asymptomatic,120.0,0.0,FastingBS <= 120 mg/dl,Normal,105.0,Yes,0.0,Flat,Present
+70.0,male,Asymptomatic,190.0,208.0,FastingBS <= 120 mg/dl,Normal,130.0,No,0.0,Flat,Present
+62.0,male,Asymptomatic,110.0,0.0,FastingBS > 120 mg/dl,Normal,110.0,Yes,1.5,Flat,Present
+54.0,female,Non-Anginal Pain,130.0,220.0,FastingBS <= 120 mg/dl,Normal,138.0,No,0.0,Up,Absent
+61.0,male,Asymptomatic,130.0,0.0,FastingBS > 120 mg/dl,Normal,113.0,Yes,0.0,Flat,Present
+53.0,male,Atypical Angina,120.0,192.0,FastingBS <= 120 mg/dl,ST-T wave abnormality,120.0,No,0.0,Up,Absent
+72.0,male,Asymptomatic,155.0,0.0,FastingBS > 120 mg/dl,ST-T wave abnormality,115.0,Yes,1.0,Flat,Present
+53.0,male,Atypical Angina,130.0,249.0,FastingBS <= 120 mg/dl,Normal,168.0,No,0.0,Up,Absent
+55.0,male,Non-Anginal Pain,130.0,167.0,FastingBS <= 120 mg/dl,Normal,144.0,No,0.0,Up,Absent
+57.0,male,Asymptomatic,130.0,0.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,120.0,Yes,0.0,Up,Present
+53.0,male,Asymptomatic,115.0,0.0,FastingBS > 120 mg/dl,Normal,128.0,Yes,3.0,Flat,Present
+41.0,female,Atypical Angina,120.0,305.0,FastingBS <= 120 mg/dl,Normal,165.0,No,0.0,Up,Absent
+45.0,male,Asymptomatic,120.0,341.0,FastingBS <= 120 mg/dl,Normal,110.0,Yes,1.5,Flat,Present
+53.0,male,Non-Anginal Pain,140.0,308.0,FastingBS <= 120 mg/dl,Normal,178.0,No,0.0,Up,Absent
+46.0,male,Atypical Angina,130.0,224.0,FastingBS <= 120 mg/dl,Normal,180.0,No,0.0,Up,Absent
+61.0,male,Non-Anginal Pain,130.0,0.0,FastingBS <= 120 mg/dl,Normal,98.0,Yes,0.0,Flat,Present
+52.0,male,Asymptomatic,125.0,248.0,FastingBS <= 120 mg/dl,Normal,122.0,Yes,1.0,Flat,Present
+53.0,male,Asymptomatic,140.0,0.0,FastingBS <= 120 mg/dl,Normal,140.0,Yes,1.0,Flat,Present
+58.0,male,Asymptomatic,140.0,260.0,FastingBS > 120 mg/dl,Normal,140.0,Yes,1.5,Flat,Present
+52.0,male,Atypical Angina,140.0,257.0,FastingBS <= 120 mg/dl,ST-T wave abnormality,150.0,No,0.0,Up,Absent
+54.0,male,Non-Anginal Pain,140.0,308.0,FastingBS <= 120 mg/dl,Normal,150.0,No,0.0,Up,Absent
+59.0,male,Asymptomatic,160.0,254.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,126.0,Yes,1.4,Flat,Present
+57.0,male,Asymptomatic,145.0,310.0,FastingBS <= 120 mg/dl,Normal,130.0,Yes,2.0,Flat,Present
+74.0,male,Asymptomatic,140.0,407.0,FastingBS > 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,145.0,Yes,1.8,Down,Present
+63.0,male,Asymptomatic,132.0,203.0,FastingBS > 120 mg/dl,ST-T wave abnormality,116.0,Yes,1.5,Flat,Present
+41.0,male,Atypical Angina,150.0,220.0,FastingBS <= 120 mg/dl,Normal,150.0,No,0.0,Up,Absent
+58.0,male,Asymptomatic,160.0,0.0,FastingBS > 120 mg/dl,Normal,84.0,No,0.0,Flat,Present
+62.0,female,Asymptomatic,130.0,303.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,111.0,No,0.0,Up,Absent
+52.0,male,Asymptomatic,154.0,0.0,FastingBS > 120 mg/dl,Normal,120.0,Yes,1.0,Flat,Present
+53.0,male,Non-Anginal Pain,140.0,215.0,FastingBS <= 120 mg/dl,Normal,165.0,No,0.0,Up,Absent
+34.0,female,Non-Anginal Pain,130.0,211.0,FastingBS <= 120 mg/dl,ST-T wave abnormality,172.0,No,0.0,Up,Absent
+65.0,male,Asymptomatic,140.0,0.0,FastingBS > 120 mg/dl,ST-T wave abnormality,120.0,Yes,1.0,Flat,Present
+58.0,male,Non-Anginal Pain,140.0,258.0,FastingBS <= 120 mg/dl,Normal,130.0,Yes,1.0,Flat,Present
+51.0,female,Asymptomatic,140.0,295.0,FastingBS <= 120 mg/dl,Normal,140.0,No,0.0,Up,Absent
+47.0,male,Asymptomatic,120.0,0.0,FastingBS <= 120 mg/dl,Normal,110.0,Yes,1.5,Down,Present
+52.0,male,Asymptomatic,150.0,0.0,FastingBS > 120 mg/dl,Normal,130.0,Yes,2.0,Down,Present
+63.0,male,Non-Anginal Pain,115.0,0.0,FastingBS > 120 mg/dl,Normal,100.0,No,0.0,Flat,Present
+64.0,male,Asymptomatic,160.0,0.0,FastingBS > 120 mg/dl,Normal,113.0,Yes,0.5,Flat,Present
+41.0,male,Atypical Angina,120.0,295.0,FastingBS <= 120 mg/dl,ST-T wave abnormality,144.0,No,0.0,Up,Absent
+56.0,female,Asymptomatic,130.0,212.0,FastingBS <= 120 mg/dl,Normal,130.0,Yes,1.0,Flat,Present
+47.0,male,Asymptomatic,120.0,0.0,FastingBS <= 120 mg/dl,Normal,110.0,Yes,3.0,Down,Present
+59.0,male,Asymptomatic,130.0,225.0,FastingBS > 120 mg/dl,Normal,120.0,Yes,1.0,Flat,Present
+41.0,female,Non-Anginal Pain,120.0,182.0,FastingBS <= 120 mg/dl,Normal,172.0,No,0.0,Up,Absent
+58.0,male,Asymptomatic,128.0,256.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,157.0,No,0.0,Up,Present
+39.0,female,Asymptomatic,120.0,412.0,FastingBS <= 120 mg/dl,Normal,140.0,Yes,0.0,Up,Absent
+43.0,male,Atypical Angina,140.0,257.0,FastingBS <= 120 mg/dl,Normal,150.0,No,0.0,Up,Absent
+53.0,male,Asymptomatic,134.0,0.0,FastingBS > 120 mg/dl,Normal,105.0,Yes,0.0,Flat,Present
+54.0,male,Atypical Angina,130.0,271.0,FastingBS <= 120 mg/dl,Normal,160.0,No,0.0,Up,Absent
+56.0,male,Asymptomatic,160.0,0.0,FastingBS > 120 mg/dl,Normal,92.0,Yes,1.5,Flat,Present
+53.0,male,Asymptomatic,130.0,254.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,149.0,No,0.0,Flat,Present
+38.0,male,Asymptomatic,110.0,0.0,FastingBS <= 120 mg/dl,Normal,100.0,Yes,0.0,Flat,Present
+43.0,male,Non-Anginal Pain,112.0,240.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,172.0,No,0.0,Up,Absent
+54.0,male,Atypical Angina,110.0,195.0,FastingBS <= 120 mg/dl,Normal,180.0,No,0.0,Up,Absent
+38.0,male,Asymptomatic,130.0,0.0,FastingBS > 120 mg/dl,Normal,148.0,Yes,1.0,Flat,Present
+41.0,female,Non-Anginal Pain,134.0,243.0,FastingBS <= 120 mg/dl,Normal,162.0,No,0.0,Up,Absent
+54.0,male,Atypical Angina,130.0,224.0,FastingBS <= 120 mg/dl,Normal,156.0,No,0.0,Up,Absent
+57.0,male,Asymptomatic,145.0,229.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,125.0,Yes,1.0,Flat,Present
+63.0,male,Asymptomatic,160.0,288.0,FastingBS <= 120 mg/dl,Normal,140.0,Yes,1.0,Flat,Present
+66.0,male,Asymptomatic,130.0,0.0,FastingBS > 120 mg/dl,Normal,128.0,Yes,1.1,Flat,Present
+62.0,male,Asymptomatic,110.0,0.0,FastingBS <= 120 mg/dl,Normal,140.0,No,0.0,Flat,Present
+58.0,female,Atypical Angina,140.0,277.0,FastingBS <= 120 mg/dl,Normal,140.0,No,0.0,Up,Absent
+57.0,male,Asymptomatic,124.0,264.0,FastingBS <= 120 mg/dl,ST-T wave abnormality,150.0,Yes,1.0,Flat,Present
+67.0,male,Non-Anginal Pain,120.0,0.0,FastingBS > 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,117.0,No,1.5,Flat,Present
+52.0,male,Non-Anginal Pain,130.0,209.0,FastingBS <= 120 mg/dl,Normal,138.0,No,0.0,Up,Absent
+54.0,male,Asymptomatic,140.0,197.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,130.0,No,0.0,Up,Absent
+41.0,male,Atypical Angina,120.0,195.0,FastingBS <= 120 mg/dl,ST-T wave abnormality,150.0,No,0.0,Up,Absent
+36.0,male,Atypical Angina,130.0,221.0,FastingBS <= 120 mg/dl,Normal,168.0,No,0.0,Up,Absent
+54.0,male,Asymptomatic,120.0,197.0,FastingBS <= 120 mg/dl,Normal,130.0,Yes,3.0,Flat,Present
+56.0,male,Asymptomatic,110.0,0.0,FastingBS <= 120 mg/dl,Normal,105.0,Yes,0.0,Flat,Present
+32.0,male,Asymptomatic,150.0,260.0,FastingBS <= 120 mg/dl,Normal,170.0,No,0.0,Up,Absent
+44.0,male,Atypical Angina,128.0,195.0,FastingBS <= 120 mg/dl,Normal,150.0,No,0.0,Up,Absent
+61.0,male,Non-Anginal Pain,160.0,233.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,152.0,No,0.8,Flat,Present
+66.0,male,Asymptomatic,128.0,289.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,143.0,Yes,1.8,Flat,Present
+50.0,male,Non-Anginal Pain,130.0,223.0,FastingBS <= 120 mg/dl,Normal,170.0,No,0.0,Up,Absent
+64.0,male,Asymptomatic,130.0,0.0,FastingBS <= 120 mg/dl,ST-T wave abnormality,128.0,Yes,0.0,Flat,Present
+61.0,male,Asymptomatic,150.0,0.0,FastingBS <= 120 mg/dl,Normal,110.0,No,-1.0,Flat,Present
+39.0,male,Non-Anginal Pain,125.0,212.0,FastingBS <= 120 mg/dl,Normal,167.0,No,0.0,Up,Present
+37.0,male,Asymptomatic,120.0,196.0,FastingBS <= 120 mg/dl,Normal,156.0,No,0.0,Up,Absent
+69.0,male,Asymptomatic,160.0,263.0,FastingBS <= 120 mg/dl,Normal,140.0,Yes,1.0,Down,Present
+43.0,male,Asymptomatic,140.0,0.0,FastingBS <= 120 mg/dl,Normal,122.0,Yes,0.0,Flat,Present
+49.0,male,Asymptomatic,140.0,243.0,FastingBS <= 120 mg/dl,Normal,143.0,Yes,1.2,Flat,Present
+52.0,male,Asymptomatic,150.0,228.0,FastingBS <= 120 mg/dl,Normal,92.0,Yes,1.0,Flat,Present
+65.0,male,Asymptomatic,130.0,0.0,FastingBS <= 120 mg/dl,ST-T wave abnormality,145.0,Yes,1.5,Flat,Present
+54.0,female,Asymptomatic,120.0,277.0,FastingBS <= 120 mg/dl,Normal,163.0,No,0.0,Up,Absent
+41.0,male,Asymptomatic,100.0,203.0,FastingBS <= 120 mg/dl,Normal,142.0,No,0.0,Up,Absent
+60.0,male,Asymptomatic,115.0,0.0,FastingBS > 120 mg/dl,Normal,72.0,Yes,0.0,Flat,Present
+61.0,male,Asymptomatic,160.0,0.0,FastingBS > 120 mg/dl,ST-T wave abnormality,112.0,Yes,2.0,Flat,Present
+40.0,female,Non-Anginal Pain,120.0,220.0,FastingBS <= 120 mg/dl,Normal,170.0,No,0.0,Up,Absent
+62.0,female,Non-Anginal Pain,140.0,275.0,FastingBS <= 120 mg/dl,Normal,162.0,No,0.0,Up,Absent
+55.0,male,Asymptomatic,150.0,0.0,FastingBS <= 120 mg/dl,ST-T wave abnormality,120.0,Yes,0.0,Flat,Present
+44.0,male,Atypical Angina,130.0,340.0,FastingBS <= 120 mg/dl,Normal,173.0,No,0.0,Up,Absent
+51.0,female,Atypical Angina,112.0,213.0,FastingBS <= 120 mg/dl,Normal,172.0,No,0.0,Up,Absent
+53.0,male,Asymptomatic,120.0,0.0,FastingBS <= 120 mg/dl,Normal,110.0,Yes,0.0,Flat,Present
+61.0,female,Asymptomatic,120.0,248.0,FastingBS > 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,144.0,No,0.0,Flat,Present
+56.0,male,Asymptomatic,140.0,224.0,FastingBS <= 120 mg/dl,Normal,161.0,No,0.0,Up,Absent
+41.0,male,Atypical Angina,140.0,196.0,FastingBS <= 120 mg/dl,Normal,150.0,No,0.0,Up,Absent
+48.0,male,Asymptomatic,115.0,263.0,FastingBS <= 120 mg/dl,Normal,122.0,Yes,1.0,Flat,Present
+56.0,male,Asymptomatic,130.0,0.0,FastingBS <= 120 mg/dl,ST-T wave abnormality,115.0,Yes,0.0,Flat,Present
+53.0,female,Non-Anginal Pain,120.0,240.0,FastingBS <= 120 mg/dl,Normal,160.0,No,0.0,Up,Absent
+38.0,male,Asymptomatic,130.0,223.0,FastingBS <= 120 mg/dl,Normal,130.0,Yes,0.0,Flat,Present
+60.0,male,Non-Anginal Pain,125.0,271.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,162.0,No,1.8,Flat,Absent
+37.0,male,Non-Anginal Pain,130.0,195.0,FastingBS <= 120 mg/dl,Normal,175.0,No,0.0,Up,Absent
+74.0,male,Non-Anginal Pain,115.0,0.0,FastingBS > 120 mg/dl,Normal,90.0,No,0.0,Up,Absent
+40.0,male,Atypical Angina,112.0,243.0,FastingBS <= 120 mg/dl,Normal,185.0,No,0.0,Up,Absent
+54.0,female,Atypical Angina,120.0,295.0,FastingBS <= 120 mg/dl,Normal,130.0,No,0.0,Up,Absent
+60.0,male,Asymptomatic,120.0,0.0,FastingBS > 120 mg/dl,ST-T wave abnormality,114.0,No,0.0,Flat,Present
+44.0,male,Atypical Angina,108.0,295.0,FastingBS <= 120 mg/dl,Normal,172.0,No,1.6,Up,Absent
+44.0,male,Atypical Angina,118.0,196.0,FastingBS <= 120 mg/dl,Normal,144.0,No,0.0,Up,Absent
+58.0,male,Asymptomatic,124.0,258.0,FastingBS > 120 mg/dl,Normal,113.0,Yes,1.2,Flat,Present
+46.0,male,Non-Anginal Pain,120.0,272.0,FastingBS <= 120 mg/dl,Normal,169.0,No,0.0,Up,Absent
+52.0,female,Asymptomatic,120.0,0.0,FastingBS <= 120 mg/dl,Normal,98.0,No,0.0,Up,Absent
+53.0,male,Asymptomatic,120.0,201.0,FastingBS <= 120 mg/dl,Normal,172.0,No,0.0,Up,Absent
+41.0,male,Asymptomatic,120.0,275.0,FastingBS <= 120 mg/dl,Normal,184.0,No,0.0,Up,Absent
+52.0,male,Asymptomatic,140.0,321.0,FastingBS <= 120 mg/dl,Normal,162.0,No,1.1,Up,Absent
+37.0,male,Non-Anginal Pain,120.0,194.0,FastingBS <= 120 mg/dl,Normal,180.0,No,0.0,Up,Absent
+44.0,male,Non-Anginal Pain,120.0,269.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,178.0,No,0.0,Up,Absent
+56.0,male,Atypical Angina,130.0,160.0,FastingBS <= 120 mg/dl,ST-T wave abnormality,155.0,No,0.0,Up,Absent
+55.0,female,Atypical Angina,120.0,216.0,FastingBS <= 120 mg/dl,ST-T wave abnormality,140.0,No,0.0,Flat,Absent
+63.0,male,Asymptomatic,125.0,0.0,FastingBS > 120 mg/dl,Normal,77.0,No,-1.5,Up,Present
+55.0,male,Atypical Angina,140.0,195.0,FastingBS <= 120 mg/dl,Normal,135.0,No,0.0,Up,Absent
+57.0,female,Non-Anginal Pain,125.0,227.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,135.0,No,0.0,Up,Absent
+48.0,male,Asymptomatic,130.0,289.0,FastingBS <= 120 mg/dl,Normal,110.0,Yes,2.0,Flat,Present
+62.0,male,Asymptomatic,140.0,284.0,FastingBS > 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,125.0,Yes,1.9,Flat,Present
+46.0,female,Asymptomatic,140.0,227.0,FastingBS <= 120 mg/dl,Normal,140.0,No,0.0,Up,Absent
+54.0,male,Asymptomatic,130.0,0.0,FastingBS > 120 mg/dl,Normal,130.0,Yes,2.0,Flat,Present
+58.0,male,Atypical Angina,120.0,249.0,FastingBS <= 120 mg/dl,Normal,160.0,No,0.0,Up,Absent
+69.0,male,Asymptomatic,120.0,254.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,122.0,No,0.0,Flat,Present
+55.0,male,Non-Anginal Pain,120.0,220.0,FastingBS <= 120 mg/dl,Normal,160.0,No,0.0,Up,Absent
+58.0,male,Asymptomatic,120.0,217.0,FastingBS <= 120 mg/dl,Normal,110.0,Yes,2.5,Flat,Present
+49.0,male,Asymptomatic,150.0,0.0,FastingBS <= 120 mg/dl,Normal,100.0,No,1.0,Flat,Present
+45.0,male,Atypical Angina,120.0,295.0,FastingBS <= 120 mg/dl,Normal,135.0,No,0.0,Up,Absent
+56.0,male,Non-Anginal Pain,136.0,0.0,FastingBS > 120 mg/dl,ST-T wave abnormality,120.0,Yes,1.0,Flat,Present
+36.0,male,Atypical Angina,130.0,275.0,FastingBS <= 120 mg/dl,Normal,150.0,No,0.0,Up,Absent
+57.0,female,Asymptomatic,130.0,0.0,FastingBS > 120 mg/dl,Normal,120.0,Yes,1.0,Down,Present
+49.0,female,Asymptomatic,160.0,277.0,FastingBS <= 120 mg/dl,Normal,153.0,No,0.0,Up,Absent
+68.0,male,Asymptomatic,140.0,222.0,FastingBS <= 120 mg/dl,ST-T wave abnormality,158.0,Yes,1.5,Up,Present
+36.0,male,Atypical Angina,120.0,235.0,FastingBS <= 120 mg/dl,ST-T wave abnormality,180.0,No,0.0,Up,Absent
+41.0,male,Atypical Angina,120.0,295.0,FastingBS <= 120 mg/dl,Normal,142.0,No,0.0,Up,Absent
+41.0,male,Non-Anginal Pain,140.0,211.0,FastingBS <= 120 mg/dl,Normal,181.0,No,1.8,Down,Absent
+53.0,male,Asymptomatic,130.0,0.0,FastingBS <= 120 mg/dl,Normal,130.0,Yes,1.0,Flat,Present
+55.0,male,Asymptomatic,130.0,0.0,FastingBS > 120 mg/dl,ST-T wave abnormality,120.0,Yes,2.0,Flat,Present
+65.0,male,Asymptomatic,140.0,0.0,FastingBS > 120 mg/dl,Normal,110.0,No,1.0,Up,Present
+63.0,male,Asymptomatic,155.0,276.0,FastingBS <= 120 mg/dl,Normal,72.0,No,1.5,Flat,Present
+61.0,male,Asymptomatic,145.0,0.0,FastingBS > 120 mg/dl,Normal,122.0,Yes,2.0,Flat,Present
+54.0,male,Asymptomatic,143.0,0.0,FastingBS <= 120 mg/dl,ST-T wave abnormality,140.0,No,0.0,Flat,Present
+65.0,male,Asymptomatic,140.0,263.0,FastingBS <= 120 mg/dl,Normal,88.0,No,0.0,Flat,Present
+57.0,male,Asymptomatic,120.0,341.0,FastingBS <= 120 mg/dl,Normal,108.0,Yes,2.5,Flat,Present
+41.0,female,Atypical Angina,120.0,201.0,FastingBS <= 120 mg/dl,Normal,138.0,No,0.0,Up,Absent
+46.0,male,Asymptomatic,160.0,0.0,FastingBS > 120 mg/dl,Normal,120.0,No,0.0,Up,Present
+41.0,female,Atypical Angina,120.0,250.0,FastingBS <= 120 mg/dl,Normal,150.0,No,0.0,Up,Absent
+54.0,male,Asymptomatic,150.0,0.0,FastingBS <= 120 mg/dl,Normal,110.0,No,0.0,Flat,Present
+53.0,male,Asymptomatic,125.0,0.0,FastingBS > 120 mg/dl,Normal,110.0,Yes,0.0,Flat,Present
+41.0,female,Non-Anginal Pain,122.0,240.0,FastingBS <= 120 mg/dl,Normal,165.0,No,0.0,Up,Absent
+38.0,male,Asymptomatic,150.0,218.0,FastingBS <= 120 mg/dl,Normal,108.0,Yes,2.0,Flat,Present
+49.0,male,Asymptomatic,125.0,275.0,FastingBS <= 120 mg/dl,Normal,174.0,No,0.0,Up,Absent
+64.0,male,Asymptomatic,150.0,218.0,FastingBS <= 120 mg/dl,Normal,112.0,Yes,2.0,Flat,Present
+66.0,male,Asymptomatic,150.0,0.0,FastingBS > 120 mg/dl,Normal,105.0,No,0.0,Flat,Present
+61.0,male,Asymptomatic,160.0,0.0,FastingBS <= 120 mg/dl,Normal,130.0,Yes,1.0,Flat,Present
+54.0,male,Non-Anginal Pain,130.0,0.0,FastingBS <= 120 mg/dl,ST-T wave abnormality,120.0,No,2.0,Flat,Absent
+47.0,female,Asymptomatic,120.0,298.0,FastingBS <= 120 mg/dl,Normal,150.0,Yes,1.0,Flat,Present
+38.0,female,Asymptomatic,130.0,198.0,FastingBS <= 120 mg/dl,Normal,122.0,No,0.0,Up,Absent
+69.0,male,Asymptomatic,145.0,200.0,FastingBS <= 120 mg/dl,Normal,112.0,No,2.5,Flat,Present
+64.0,male,Asymptomatic,136.0,0.0,FastingBS <= 120 mg/dl,Normal,125.0,Yes,0.0,Flat,Present
+52.0,male,Asymptomatic,136.0,243.0,FastingBS <= 120 mg/dl,Normal,125.0,Yes,6.2,Flat,Present
+38.0,male,Asymptomatic,115.0,0.0,FastingBS <= 120 mg/dl,Normal,156.0,No,0.0,Flat,Present
+43.0,male,Non-Anginal Pain,130.0,199.0,FastingBS <= 120 mg/dl,Normal,172.0,No,0.0,Up,Absent
+43.0,male,Asymptomatic,120.0,0.0,FastingBS <= 120 mg/dl,Normal,106.0,Yes,0.0,Flat,Present
+59.0,male,Asymptomatic,115.0,0.0,FastingBS > 120 mg/dl,Normal,131.0,No,0.1,Flat,Present
+54.0,female,Atypical Angina,120.0,198.0,FastingBS <= 120 mg/dl,Normal,138.0,No,0.0,Up,Absent
+60.0,male,Asymptomatic,134.0,0.0,FastingBS <= 120 mg/dl,ST-T wave abnormality,120.0,Yes,0.0,Up,Present
+48.0,male,Asymptomatic,130.0,0.0,FastingBS <= 120 mg/dl,Normal,93.0,Yes,2.0,Flat,Present
+53.0,male,Asymptomatic,139.0,0.0,FastingBS <= 120 mg/dl,ST-T wave abnormality,141.0,Yes,0.2,Up,Present
+61.0,male,Asymptomatic,150.0,0.0,FastingBS > 120 mg/dl,Normal,140.0,Yes,1.0,Flat,Present
+38.0,male,Asymptomatic,130.0,0.0,FastingBS <= 120 mg/dl,ST-T wave abnormality,130.0,Yes,0.0,Flat,Present
+62.0,male,Asymptomatic,140.0,0.0,FastingBS <= 120 mg/dl,Normal,122.0,Yes,1.2,Flat,Present
+61.0,male,Asymptomatic,160.0,0.0,FastingBS > 120 mg/dl,ST-T wave abnormality,105.0,No,0.0,Flat,Present
+32.0,male,Atypical Angina,120.0,201.0,FastingBS <= 120 mg/dl,Normal,170.0,No,0.0,Up,Absent
+58.0,male,Asymptomatic,115.0,0.0,FastingBS <= 120 mg/dl,ST-T wave abnormality,140.0,Yes,1.0,Flat,Present
+44.0,male,Atypical Angina,120.0,230.0,FastingBS <= 120 mg/dl,Normal,130.0,No,0.0,Up,Absent
+55.0,male,Typical Angina,130.0,264.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,149.0,No,0.2,Up,Present
+45.0,female,Non-Anginal Pain,130.0,195.0,FastingBS <= 120 mg/dl,Normal,180.0,No,0.0,Up,Absent
+54.0,male,Asymptomatic,140.0,211.0,FastingBS <= 120 mg/dl,Normal,137.0,No,0.0,Up,Absent
+37.0,male,Non-Anginal Pain,120.0,179.0,FastingBS <= 120 mg/dl,Normal,179.0,No,0.4,Up,Absent
+52.0,male,Atypical Angina,120.0,0.0,FastingBS > 120 mg/dl,Normal,110.0,No,1.0,Flat,Present
+47.0,male,Asymptomatic,160.0,211.0,FastingBS <= 120 mg/dl,ST-T wave abnormality,100.0,Yes,1.5,Flat,Present
+39.0,male,Asymptomatic,130.0,269.0,FastingBS <= 120 mg/dl,Normal,157.0,No,0.0,Up,Absent
+52.0,female,Asymptomatic,150.0,230.0,FastingBS <= 120 mg/dl,Normal,128.0,Yes,3.0,Flat,Present
+66.0,male,Asymptomatic,145.0,0.0,FastingBS > 120 mg/dl,ST-T wave abnormality,138.0,No,0.0,Up,Absent
+63.0,male,Asymptomatic,140.0,0.0,FastingBS > 120 mg/dl,ST-T wave abnormality,105.0,Yes,1.5,Flat,Present
+46.0,male,Asymptomatic,130.0,0.0,FastingBS <= 120 mg/dl,Normal,130.0,Yes,2.0,Flat,Present
+43.0,male,Asymptomatic,145.0,0.0,FastingBS > 120 mg/dl,Normal,160.0,Yes,1.5,Flat,Present
+48.0,male,Asymptomatic,130.0,294.0,FastingBS <= 120 mg/dl,Normal,140.0,Yes,0.0,Flat,Present
+55.0,male,Non-Anginal Pain,112.0,201.0,FastingBS <= 120 mg/dl,Normal,160.0,No,0.0,Up,Absent
+60.0,male,Asymptomatic,115.0,0.0,FastingBS <= 120 mg/dl,Normal,130.0,Yes,1.5,Flat,Present
+58.0,male,Asymptomatic,110.0,0.0,FastingBS > 120 mg/dl,Normal,140.0,No,0.0,Flat,Present
+75.0,male,Asymptomatic,136.0,219.0,FastingBS <= 120 mg/dl,ST-T wave abnormality,112.0,Yes,1.5,Flat,Present
+41.0,male,Non-Anginal Pain,140.0,182.0,FastingBS <= 120 mg/dl,Normal,160.0,No,0.0,Up,Absent
+54.0,female,Atypical Angina,120.0,235.0,FastingBS <= 120 mg/dl,Normal,122.0,No,0.0,Up,Absent
+39.0,male,Atypical Angina,140.0,245.0,FastingBS <= 120 mg/dl,Normal,170.0,No,0.0,Up,Absent
+49.0,male,Non-Anginal Pain,120.0,269.0,FastingBS <= 120 mg/dl,Normal,135.0,No,0.0,Up,Absent
+49.0,female,Atypical Angina,140.0,197.0,FastingBS <= 120 mg/dl,Normal,168.0,No,0.0,Up,Absent
+53.0,male,Atypical Angina,130.0,254.0,FastingBS <= 120 mg/dl,Normal,160.0,No,0.0,Up,Absent
+58.0,female,Atypical Angina,130.0,220.0,FastingBS <= 120 mg/dl,Normal,160.0,No,0.0,Up,Absent
+57.0,male,Asymptomatic,110.0,0.0,FastingBS > 120 mg/dl,Normal,105.0,No,0.0,Flat,Present
+55.0,male,Asymptomatic,120.0,243.0,FastingBS <= 120 mg/dl,ST-T wave abnormality,139.0,Yes,1.0,Up,Absent
+42.0,male,Atypical Angina,140.0,196.0,FastingBS <= 120 mg/dl,Normal,173.0,No,0.0,Up,Absent
+44.0,male,Atypical Angina,120.0,240.0,FastingBS <= 120 mg/dl,Normal,170.0,No,0.0,Up,Absent
+61.0,male,Non-Anginal Pain,155.0,0.0,FastingBS <= 120 mg/dl,Normal,115.0,No,1.0,Flat,Absent
+43.0,male,Asymptomatic,110.0,0.0,FastingBS <= 120 mg/dl,Normal,130.0,Yes,0.0,Flat,Present
+45.0,male,Asymptomatic,133.0,0.0,FastingBS > 120 mg/dl,ST-T wave abnormality,135.0,No,0.1,Up,Present
+46.0,male,Asymptomatic,120.0,0.0,FastingBS <= 120 mg/dl,Normal,110.0,Yes,1.0,Flat,Present
+55.0,female,Asymptomatic,130.0,0.0,FastingBS <= 120 mg/dl,ST-T wave abnormality,120.0,No,0.0,Up,Absent
+62.0,male,Asymptomatic,160.0,0.0,FastingBS > 120 mg/dl,Normal,130.0,Yes,0.0,Flat,Present
+49.0,male,Asymptomatic,140.0,240.0,FastingBS <= 120 mg/dl,Normal,90.0,No,0.0,Up,Absent
+41.0,female,Non-Anginal Pain,130.0,215.0,FastingBS <= 120 mg/dl,Normal,143.0,No,0.0,Up,Absent
+39.0,female,Non-Anginal Pain,120.0,235.0,FastingBS <= 120 mg/dl,Normal,172.0,No,0.0,Up,Absent
+54.0,male,Asymptomatic,130.0,226.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,122.0,Yes,1.8,Flat,Present
+53.0,female,Non-Anginal Pain,150.0,215.0,FastingBS <= 120 mg/dl,Normal,160.0,No,0.0,Up,Absent
+57.0,male,Asymptomatic,125.0,0.0,FastingBS > 120 mg/dl,Normal,122.0,Yes,1.0,Flat,Present
+39.0,female,Non-Anginal Pain,130.0,253.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,172.0,No,0.0,Up,Absent
+60.0,male,Asymptomatic,141.0,222.0,FastingBS > 120 mg/dl,ST-T wave abnormality,127.0,Yes,1.7,Flat,Present
+64.0,male,Asymptomatic,150.0,0.0,FastingBS <= 120 mg/dl,Normal,120.0,Yes,0.0,Flat,Present
+57.0,male,Asymptomatic,152.0,0.0,FastingBS > 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,120.0,No,0.0,Flat,Present
+42.0,female,Non-Anginal Pain,120.0,196.0,FastingBS <= 120 mg/dl,Normal,174.0,No,0.0,Up,Absent
+44.0,male,Atypical Angina,120.0,215.0,FastingBS <= 120 mg/dl,Normal,130.0,No,0.0,Up,Absent
+62.0,male,Typical Angina,140.0,288.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,175.0,No,0.0,Flat,Present
+63.0,male,Asymptomatic,130.0,0.0,FastingBS > 120 mg/dl,ST-T wave abnormality,129.0,Yes,1.2,Flat,Present
+39.0,male,Non-Anginal Pain,120.0,195.0,FastingBS <= 120 mg/dl,Normal,175.0,No,0.0,Up,Absent
+48.0,male,Asymptomatic,118.0,264.0,FastingBS <= 120 mg/dl,Normal,112.0,Yes,1.0,Flat,Present
+64.0,male,Asymptomatic,140.0,0.0,FastingBS > 120 mg/dl,ST-T wave abnormality,128.0,Yes,1.5,Down,Present
+52.0,male,Asymptomatic,115.0,0.0,FastingBS > 120 mg/dl,ST-T wave abnormality,135.0,Yes,1.2,Flat,Present
+48.0,male,Asymptomatic,120.0,0.0,FastingBS <= 120 mg/dl,Normal,122.0,No,0.0,Flat,Present
+53.0,male,Atypical Angina,160.0,238.0,FastingBS <= 120 mg/dl,Normal,138.0,No,0.0,Up,Absent
+34.0,female,Non-Anginal Pain,120.0,215.0,FastingBS <= 120 mg/dl,Normal,170.0,No,0.0,Up,Absent
+54.0,male,Non-Anginal Pain,130.0,211.0,FastingBS <= 120 mg/dl,Normal,173.0,No,0.0,Up,Absent
+43.0,male,Atypical Angina,125.0,275.0,FastingBS <= 120 mg/dl,Normal,130.0,No,0.0,Up,Absent
+51.0,male,Atypical Angina,120.0,320.0,FastingBS <= 120 mg/dl,Normal,130.0,No,0.0,Up,Absent
+64.0,male,Asymptomatic,160.0,0.0,FastingBS <= 120 mg/dl,Normal,128.0,Yes,2.5,Down,Present
+54.0,female,Asymptomatic,140.0,303.0,FastingBS <= 120 mg/dl,Normal,118.0,Yes,1.0,Flat,Present
+46.0,male,Non-Anginal Pain,140.0,271.0,FastingBS <= 120 mg/dl,Normal,163.0,No,0.0,Up,Absent
+53.0,male,Non-Anginal Pain,135.0,216.0,FastingBS <= 120 mg/dl,Normal,135.0,No,0.0,Flat,Present
+69.0,male,Non-Anginal Pain,160.0,0.0,FastingBS > 120 mg/dl,ST-T wave abnormality,121.0,Yes,0.0,Up,Present
+53.0,male,Non-Anginal Pain,130.0,216.0,FastingBS <= 120 mg/dl,Normal,150.0,Yes,1.0,Flat,Absent
+47.0,male,Asymptomatic,110.0,0.0,FastingBS <= 120 mg/dl,Normal,122.0,Yes,1.0,Flat,Present
+38.0,male,Asymptomatic,110.0,0.0,FastingBS <= 120 mg/dl,Normal,120.0,Yes,1.5,Flat,Present
+51.0,female,Asymptomatic,110.0,0.0,FastingBS <= 120 mg/dl,Normal,116.0,Yes,0.2,Flat,Present
+48.0,male,Asymptomatic,135.0,0.0,FastingBS <= 120 mg/dl,Normal,120.0,Yes,1.5,Down,Present
+63.0,male,Asymptomatic,155.0,0.0,FastingBS <= 120 mg/dl,Normal,105.0,Yes,1.0,Flat,Present
+54.0,female,Atypical Angina,140.0,305.0,FastingBS <= 120 mg/dl,Normal,160.0,No,0.0,Up,Absent
+51.0,male,Asymptomatic,110.0,260.0,FastingBS > 120 mg/dl,Normal,117.0,Yes,1.5,Flat,Present
+41.0,male,Non-Anginal Pain,110.0,220.0,FastingBS <= 120 mg/dl,Normal,179.0,No,0.0,Up,Absent
+38.0,male,Asymptomatic,104.0,216.0,FastingBS <= 120 mg/dl,Normal,138.0,Yes,1.0,Flat,Present
+62.0,male,Asymptomatic,158.0,213.0,FastingBS <= 120 mg/dl,Normal,94.0,No,0.0,Flat,Present
+38.0,male,Non-Anginal Pain,115.0,0.0,FastingBS <= 120 mg/dl,ST-T wave abnormality,128.0,Yes,0.0,Flat,Present
+36.0,male,Atypical Angina,150.0,240.0,FastingBS <= 120 mg/dl,Normal,150.0,No,0.0,Up,Absent
+57.0,male,Atypical Angina,140.0,254.0,FastingBS <= 120 mg/dl,ST-T wave abnormality,172.0,No,0.0,Up,Absent
+48.0,male,Non-Anginal Pain,140.0,195.0,FastingBS <= 120 mg/dl,Normal,174.0,No,0.0,Up,Absent
+54.0,male,Atypical Angina,150.0,325.0,FastingBS <= 120 mg/dl,Normal,150.0,No,0.0,Up,Absent
+32.0,male,Asymptomatic,130.0,195.0,FastingBS <= 120 mg/dl,Normal,162.0,No,0.0,Up,Absent
+44.0,male,Atypical Angina,120.0,250.0,FastingBS <= 120 mg/dl,Normal,156.0,No,0.0,Up,Absent
+39.0,female,Atypical Angina,120.0,240.0,FastingBS <= 120 mg/dl,Normal,130.0,No,0.0,Up,Absent
+41.0,male,Atypical Angina,120.0,257.0,FastingBS <= 120 mg/dl,Normal,168.0,No,0.0,Up,Absent
+52.0,male,Atypical Angina,130.0,219.0,FastingBS <= 120 mg/dl,Normal,168.0,No,0.0,Up,Absent
+49.0,male,Asymptomatic,140.0,240.0,FastingBS <= 120 mg/dl,Normal,150.0,No,0.0,Up,Absent
+48.0,male,Asymptomatic,120.0,282.0,FastingBS <= 120 mg/dl,Normal,120.0,Yes,1.5,Flat,Present
+41.0,male,Non-Anginal Pain,130.0,308.0,FastingBS <= 120 mg/dl,Normal,153.0,No,0.0,Up,Absent
+39.0,male,Atypical Angina,134.0,195.0,FastingBS <= 120 mg/dl,Normal,140.0,No,0.0,Up,Absent
+61.0,male,Asymptomatic,140.0,254.0,FastingBS <= 120 mg/dl,Normal,140.0,Yes,1.5,Up,Absent
+54.0,male,Asymptomatic,130.0,0.0,FastingBS <= 120 mg/dl,Normal,113.0,Yes,2.0,Flat,Present
+37.0,male,Non-Anginal Pain,118.0,230.0,FastingBS <= 120 mg/dl,Normal,150.0,No,0.0,Flat,Present
+45.0,female,Asymptomatic,110.0,182.0,FastingBS <= 120 mg/dl,ST-T wave abnormality,155.0,No,0.0,Up,Absent
+41.0,male,Atypical Angina,120.0,195.0,FastingBS <= 120 mg/dl,Normal,165.0,No,0.0,Up,Absent
+66.0,male,Asymptomatic,140.0,294.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,125.0,Yes,2.6,Flat,Present
+48.0,male,Asymptomatic,120.0,260.0,FastingBS <= 120 mg/dl,Normal,140.0,Yes,1.0,Flat,Present
+57.0,male,Asymptomatic,124.0,197.0,FastingBS <= 120 mg/dl,Normal,118.0,No,0.0,Up,Absent
+54.0,male,Asymptomatic,120.0,0.0,FastingBS > 120 mg/dl,Normal,100.0,Yes,0.0,Up,Present
+54.0,male,Asymptomatic,150.0,0.0,FastingBS > 120 mg/dl,Normal,92.0,Yes,0.0,Flat,Present
+57.0,male,Asymptomatic,120.0,0.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,140.0,Yes,1.5,Down,Present
+52.0,male,Atypical Angina,120.0,225.0,FastingBS <= 120 mg/dl,Normal,184.0,No,0.0,Up,Absent
+43.0,male,Atypical Angina,120.0,204.0,FastingBS <= 120 mg/dl,Normal,160.0,No,0.0,Up,Absent
+29.0,male,Non-Anginal Pain,140.0,230.0,FastingBS <= 120 mg/dl,Normal,150.0,No,0.0,Up,Absent
+58.0,male,Non-Anginal Pain,138.0,211.0,FastingBS <= 120 mg/dl,Normal,148.0,No,1.0,Up,Absent
+54.0,male,Asymptomatic,130.0,246.0,FastingBS <= 120 mg/dl,Normal,120.0,Yes,1.5,Flat,Present
+54.0,male,Asymptomatic,140.0,234.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,161.0,No,0.0,Up,Absent
+63.0,male,Non-Anginal Pain,145.0,0.0,FastingBS <= 120 mg/dl,Normal,133.0,Yes,2.0,Flat,Present
+61.0,female,Asymptomatic,145.0,0.0,FastingBS > 120 mg/dl,Normal,97.0,No,0.0,Flat,Present
+44.0,male,Atypical Angina,120.0,194.0,FastingBS <= 120 mg/dl,Normal,150.0,No,0.0,Up,Absent
+35.0,female,Non-Anginal Pain,130.0,209.0,FastingBS <= 120 mg/dl,Normal,172.0,No,0.0,Up,Absent
+74.0,male,Asymptomatic,130.0,226.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,108.0,Yes,2.4,Flat,Present
+42.0,male,Non-Anginal Pain,120.0,215.0,FastingBS <= 120 mg/dl,Normal,170.0,No,0.0,Up,Absent
+35.0,female,Atypical Angina,120.0,295.0,FastingBS <= 120 mg/dl,Normal,155.0,No,0.0,Up,Absent
+51.0,male,Atypical Angina,138.0,0.0,FastingBS <= 120 mg/dl,Normal,150.0,No,0.0,Up,Absent
+58.0,male,Asymptomatic,120.0,0.0,FastingBS > 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,123.0,Yes,2.0,Flat,Present
+52.0,male,Asymptomatic,140.0,0.0,FastingBS > 120 mg/dl,Normal,130.0,Yes,1.0,Flat,Present
+54.0,male,Asymptomatic,160.0,0.0,FastingBS <= 120 mg/dl,Normal,154.0,Yes,1.5,Down,Present
+53.0,male,Asymptomatic,110.0,229.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,126.0,No,2.4,Flat,Present
+55.0,male,Atypical Angina,139.0,308.0,FastingBS <= 120 mg/dl,Normal,135.0,No,0.2,Up,Absent
+55.0,male,Asymptomatic,110.0,0.0,FastingBS > 120 mg/dl,Normal,120.0,Yes,1.5,Flat,Present
+58.0,male,Asymptomatic,150.0,0.0,FastingBS > 120 mg/dl,Normal,110.0,No,0.0,Flat,Present
+66.0,male,Non-Anginal Pain,140.0,0.0,FastingBS <= 120 mg/dl,ST-T wave abnormality,113.0,Yes,1.3,Flat,Present
+60.0,male,Asymptomatic,120.0,0.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,120.0,Yes,0.0,Flat,Present
+47.0,male,Asymptomatic,120.0,0.0,FastingBS <= 120 mg/dl,Normal,120.0,Yes,1.5,Flat,Present
+41.0,male,Atypical Angina,140.0,224.0,FastingBS <= 120 mg/dl,Normal,145.0,No,0.0,Up,Absent
+55.0,male,Asymptomatic,130.0,201.0,FastingBS <= 120 mg/dl,ST-T wave abnormality,148.0,No,0.0,Up,Absent
+55.0,male,Asymptomatic,160.0,0.0,FastingBS > 120 mg/dl,ST-T wave abnormality,122.0,Yes,2.0,Down,Present
+43.0,male,Asymptomatic,130.0,0.0,FastingBS <= 120 mg/dl,Normal,120.0,Yes,0.5,Flat,Present
+41.0,male,Atypical Angina,130.0,196.0,FastingBS <= 120 mg/dl,Normal,145.0,No,0.0,Up,Absent
+41.0,female,Atypical Angina,130.0,204.0,FastingBS <= 120 mg/dl,Normal,130.0,No,0.0,Up,Absent
+37.0,male,Asymptomatic,110.0,0.0,FastingBS <= 120 mg/dl,Normal,120.0,Yes,0.0,Flat,Present
+57.0,male,Asymptomatic,130.0,0.0,FastingBS > 120 mg/dl,Normal,134.0,No,0.2,Flat,Present
+67.0,male,Asymptomatic,130.0,271.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,116.0,No,0.0,Up,Absent
+62.0,male,Asymptomatic,140.0,256.0,FastingBS > 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,140.0,No,2.0,Flat,Present
+41.0,male,Asymptomatic,140.0,196.0,FastingBS <= 120 mg/dl,Normal,150.0,No,0.0,Up,Absent
+42.0,male,Non-Anginal Pain,140.0,194.0,FastingBS <= 120 mg/dl,Normal,145.0,No,0.0,Up,Absent
+60.0,male,Asymptomatic,120.0,0.0,FastingBS > 120 mg/dl,Normal,120.0,No,0.7,Flat,Present
+47.0,male,Atypical Angina,108.0,201.0,FastingBS <= 120 mg/dl,Normal,169.0,No,0.0,Up,Absent
+40.0,male,Atypical Angina,140.0,194.0,FastingBS <= 120 mg/dl,Normal,160.0,No,0.0,Up,Absent
+61.0,male,Asymptomatic,160.0,0.0,FastingBS > 120 mg/dl,ST-T wave abnormality,128.0,No,2.5,Down,Present
+48.0,male,Non-Anginal Pain,120.0,271.0,FastingBS <= 120 mg/dl,Normal,173.0,No,0.0,Up,Absent
+55.0,male,Asymptomatic,120.0,235.0,FastingBS <= 120 mg/dl,Normal,135.0,No,0.0,Up,Absent
+51.0,male,Asymptomatic,120.0,0.0,FastingBS <= 120 mg/dl,Normal,98.0,Yes,1.0,Flat,Present
+37.0,female,Asymptomatic,140.0,240.0,FastingBS <= 120 mg/dl,Normal,170.0,No,0.0,Up,Absent
+55.0,male,Asymptomatic,140.0,0.0,FastingBS <= 120 mg/dl,Normal,155.0,No,-0.1,Up,Absent
+54.0,male,Non-Anginal Pain,125.0,0.0,FastingBS > 120 mg/dl,Normal,150.0,Yes,0.0,Flat,Present
+48.0,male,Asymptomatic,140.0,0.0,FastingBS <= 120 mg/dl,Normal,140.0,No,0.0,Flat,Present
+60.0,male,Asymptomatic,120.0,276.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,125.0,Yes,2.0,Flat,Present
+57.0,male,Asymptomatic,120.0,0.0,FastingBS <= 120 mg/dl,ST-T wave abnormality,120.0,Yes,0.0,Flat,Present
+48.0,female,Atypical Angina,120.0,269.0,FastingBS <= 120 mg/dl,Normal,175.0,No,0.0,Up,Absent
+38.0,male,Asymptomatic,130.0,0.0,FastingBS <= 120 mg/dl,Normal,150.0,No,0.0,Flat,Present
+54.0,male,Asymptomatic,126.0,236.0,FastingBS <= 120 mg/dl,Normal,136.0,No,0.0,Flat,Present
+51.0,male,Asymptomatic,130.0,341.0,FastingBS <= 120 mg/dl,Normal,92.0,Yes,2.0,Flat,Present
+51.0,male,Atypical Angina,150.0,254.0,FastingBS <= 120 mg/dl,Normal,140.0,No,0.0,Up,Absent
+41.0,male,Asymptomatic,160.0,203.0,FastingBS <= 120 mg/dl,Normal,130.0,No,1.0,Flat,Present
+54.0,male,Asymptomatic,120.0,0.0,FastingBS <= 120 mg/dl,Normal,120.0,Yes,0.0,Flat,Present
+41.0,male,Atypical Angina,120.0,238.0,FastingBS <= 120 mg/dl,Normal,150.0,No,0.0,Up,Absent
+67.0,male,Asymptomatic,135.0,0.0,FastingBS <= 120 mg/dl,ST-T wave abnormality,122.0,Yes,1.5,Flat,Present
+42.0,female,Atypical Angina,130.0,245.0,FastingBS <= 120 mg/dl,Normal,156.0,No,0.0,Up,Absent
+62.0,male,Asymptomatic,160.0,203.0,FastingBS > 120 mg/dl,Normal,112.0,Yes,5.0,Down,Present
+42.0,male,Atypical Angina,120.0,196.0,FastingBS <= 120 mg/dl,Normal,184.0,No,0.0,Up,Absent
+39.0,male,Atypical Angina,120.0,182.0,FastingBS <= 120 mg/dl,Normal,172.0,No,0.0,Up,Absent
+54.0,male,Non-Anginal Pain,150.0,236.0,FastingBS <= 120 mg/dl,Normal,148.0,No,1.5,Flat,Present
+51.0,male,Atypical Angina,120.0,196.0,FastingBS <= 120 mg/dl,Normal,135.0,No,0.0,Up,Absent
+55.0,male,Asymptomatic,110.0,203.0,FastingBS <= 120 mg/dl,Normal,92.0,Yes,2.0,Flat,Present
+58.0,male,Asymptomatic,120.0,288.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,130.0,Yes,2.0,Flat,Present
+50.0,male,Atypical Angina,120.0,249.0,FastingBS <= 120 mg/dl,Normal,170.0,No,0.0,Up,Absent
+38.0,male,Non-Anginal Pain,115.0,0.0,FastingBS <= 120 mg/dl,Normal,115.0,No,0.0,Flat,Present
+49.0,male,Asymptomatic,130.0,0.0,FastingBS <= 120 mg/dl,Normal,130.0,No,1.0,Flat,Absent
+41.0,female,Atypical Angina,130.0,295.0,FastingBS <= 120 mg/dl,Normal,160.0,No,0.0,Up,Absent
+57.0,male,Asymptomatic,130.0,0.0,FastingBS > 120 mg/dl,ST-T wave abnormality,115.0,Yes,1.0,Flat,Present
+68.0,male,Asymptomatic,150.0,223.0,FastingBS <= 120 mg/dl,Normal,130.0,Yes,2.2,Flat,Present
+54.0,male,Asymptomatic,140.0,219.0,FastingBS <= 120 mg/dl,Normal,140.0,Yes,2.0,Flat,Present
+52.0,female,Atypical Angina,120.0,295.0,FastingBS <= 120 mg/dl,Normal,130.0,No,0.0,Up,Absent
+56.0,female,Non-Anginal Pain,140.0,277.0,FastingBS <= 120 mg/dl,Normal,172.0,No,0.0,Up,Absent
+51.0,male,Asymptomatic,139.0,0.0,FastingBS > 120 mg/dl,ST-T wave abnormality,123.0,Yes,1.2,Flat,Present
+53.0,male,Asymptomatic,115.0,0.0,FastingBS <= 120 mg/dl,Normal,112.0,No,0.0,Flat,Present
+39.0,male,Asymptomatic,130.0,270.0,FastingBS <= 120 mg/dl,Normal,170.0,No,1.0,Flat,Present
+39.0,male,Atypical Angina,112.0,263.0,FastingBS <= 120 mg/dl,Normal,168.0,No,0.0,Up,Absent
+51.0,male,Asymptomatic,145.0,217.0,FastingBS > 120 mg/dl,Normal,144.0,Yes,2.0,Flat,Present
+41.0,male,Asymptomatic,124.0,192.0,FastingBS <= 120 mg/dl,Normal,150.0,No,0.0,Up,Absent
+56.0,male,Non-Anginal Pain,140.0,245.0,FastingBS <= 120 mg/dl,Normal,162.0,No,0.3,Up,Absent
+61.0,male,Asymptomatic,120.0,0.0,FastingBS > 120 mg/dl,Normal,117.0,Yes,1.2,Flat,Present
+64.0,male,Asymptomatic,144.0,216.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,122.0,Yes,0.0,Flat,Present
+57.0,female,Asymptomatic,110.0,182.0,FastingBS <= 120 mg/dl,Normal,130.0,No,0.0,Up,Absent
+60.0,male,Asymptomatic,160.0,285.0,FastingBS > 120 mg/dl,Normal,130.0,Yes,2.5,Down,Present
+52.0,female,Atypical Angina,120.0,209.0,FastingBS <= 120 mg/dl,Normal,140.0,No,0.0,Up,Absent
+41.0,male,Asymptomatic,150.0,253.0,FastingBS <= 120 mg/dl,Normal,160.0,No,0.0,Up,Absent
+54.0,female,Non-Anginal Pain,120.0,273.0,FastingBS <= 120 mg/dl,ST-T wave abnormality,175.0,No,0.0,Up,Absent
+54.0,male,Asymptomatic,115.0,0.0,FastingBS <= 120 mg/dl,Normal,155.0,No,0.0,Flat,Present
+49.0,male,Non-Anginal Pain,150.0,249.0,FastingBS <= 120 mg/dl,Normal,144.0,No,0.0,Flat,Present
+59.0,male,Asymptomatic,130.0,0.0,FastingBS <= 120 mg/dl,Normal,124.0,No,0.0,Flat,Present
+46.0,male,Asymptomatic,110.0,0.0,FastingBS > 120 mg/dl,Normal,130.0,Yes,2.0,Flat,Present
+45.0,female,Atypical Angina,160.0,269.0,FastingBS <= 120 mg/dl,Normal,139.0,No,0.0,Up,Absent
+58.0,male,Non-Anginal Pain,130.0,234.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,147.0,No,0.0,Up,Absent
+59.0,male,Asymptomatic,120.0,0.0,FastingBS <= 120 mg/dl,Normal,120.0,Yes,0.0,Flat,Present
+41.0,male,Non-Anginal Pain,130.0,197.0,FastingBS <= 120 mg/dl,Normal,170.0,No,0.0,Up,Absent
+41.0,female,Asymptomatic,130.0,215.0,FastingBS <= 120 mg/dl,ST-T wave abnormality,131.0,No,0.2,Up,Absent
+51.0,male,Asymptomatic,130.0,0.0,FastingBS > 120 mg/dl,Normal,118.0,Yes,0.0,Flat,Present
+64.0,female,Non-Anginal Pain,134.0,245.0,FastingBS <= 120 mg/dl,Normal,116.0,No,0.2,Up,Absent
+59.0,male,Asymptomatic,144.0,216.0,FastingBS <= 120 mg/dl,Normal,96.0,Yes,1.0,Flat,Present
+58.0,male,Asymptomatic,180.0,0.0,FastingBS > 120 mg/dl,ST-T wave abnormality,130.0,No,0.0,Flat,Present
+61.0,male,Asymptomatic,134.0,0.0,FastingBS > 120 mg/dl,Normal,125.0,Yes,1.0,Flat,Present
+48.0,male,Asymptomatic,135.0,0.0,FastingBS > 120 mg/dl,Normal,125.0,Yes,1.5,Flat,Present
+73.0,male,Atypical Angina,134.0,321.0,FastingBS <= 120 mg/dl,Normal,162.0,No,0.0,Up,Absent
+61.0,male,Asymptomatic,145.0,0.0,FastingBS > 120 mg/dl,ST-T wave abnormality,160.0,No,1.7,Flat,Present
+63.0,male,Asymptomatic,140.0,0.0,FastingBS <= 120 mg/dl,Normal,103.0,Yes,0.5,Flat,Present
+51.0,male,Non-Anginal Pain,170.0,267.0,FastingBS <= 120 mg/dl,Normal,96.0,Yes,1.0,Flat,Absent
+54.0,female,Atypical Angina,120.0,308.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,159.0,No,0.0,Up,Absent
+46.0,male,Asymptomatic,120.0,0.0,FastingBS <= 120 mg/dl,Normal,110.0,No,0.0,Flat,Present
+63.0,male,Asymptomatic,130.0,0.0,FastingBS > 120 mg/dl,Normal,88.0,No,0.0,Flat,Present
+62.0,male,Non-Anginal Pain,118.0,0.0,FastingBS <= 120 mg/dl,Normal,103.0,No,0.0,Flat,Present
+54.0,male,Asymptomatic,150.0,253.0,FastingBS <= 120 mg/dl,Normal,160.0,No,0.0,Up,Absent
+41.0,male,Non-Anginal Pain,120.0,250.0,FastingBS <= 120 mg/dl,Normal,154.0,No,0.0,Up,Absent
+47.0,male,Asymptomatic,150.0,260.0,FastingBS <= 120 mg/dl,Normal,160.0,Yes,1.0,Flat,Present
+55.0,male,Asymptomatic,120.0,0.0,FastingBS <= 120 mg/dl,Normal,127.0,No,0.0,Up,Absent
+46.0,male,Asymptomatic,120.0,230.0,FastingBS <= 120 mg/dl,Normal,140.0,Yes,1.0,Flat,Present
+58.0,male,Asymptomatic,140.0,188.0,FastingBS <= 120 mg/dl,Normal,170.0,No,0.0,Flat,Present
+37.0,male,Atypical Angina,110.0,215.0,FastingBS <= 120 mg/dl,Normal,142.0,No,0.0,Up,Absent
+53.0,male,Asymptomatic,140.0,254.0,FastingBS <= 120 mg/dl,Normal,140.0,Yes,2.0,Flat,Present
+45.0,male,Atypical Angina,120.0,254.0,FastingBS <= 120 mg/dl,Normal,172.0,No,0.0,Up,Absent
+61.0,male,Asymptomatic,120.0,0.0,FastingBS <= 120 mg/dl,Normal,77.0,Yes,2.0,Down,Present
+40.0,female,Atypical Angina,138.0,295.0,FastingBS <= 120 mg/dl,Normal,142.0,No,0.0,Up,Absent
+41.0,male,Atypical Angina,120.0,204.0,FastingBS <= 120 mg/dl,Normal,160.0,No,0.0,Up,Absent
+51.0,male,Asymptomatic,115.0,0.0,FastingBS > 120 mg/dl,Normal,144.0,No,0.3,Up,Absent
+55.0,male,Non-Anginal Pain,138.0,235.0,FastingBS <= 120 mg/dl,Normal,138.0,No,0.0,Up,Absent
+65.0,male,Asymptomatic,115.0,0.0,FastingBS > 120 mg/dl,Normal,115.0,Yes,2.0,Flat,Present
+56.0,male,Asymptomatic,130.0,246.0,FastingBS <= 120 mg/dl,Normal,140.0,Yes,2.0,Flat,Present
+61.0,male,Typical Angina,110.0,0.0,FastingBS <= 120 mg/dl,Normal,140.0,No,0.0,Flat,Present
+59.0,male,Asymptomatic,150.0,0.0,FastingBS <= 120 mg/dl,Normal,120.0,Yes,1.5,Flat,Present
+38.0,male,Atypical Angina,130.0,250.0,FastingBS <= 120 mg/dl,Normal,170.0,No,0.0,Up,Absent
+37.0,male,Atypical Angina,120.0,209.0,FastingBS <= 120 mg/dl,Normal,150.0,No,0.0,Up,Absent
+51.0,male,Atypical Angina,130.0,223.0,FastingBS <= 120 mg/dl,Normal,118.0,No,0.0,Up,Absent
+42.0,male,Atypical Angina,120.0,240.0,FastingBS <= 120 mg/dl,ST-T wave abnormality,120.0,No,0.0,Up,Absent
+61.0,male,Asymptomatic,110.0,0.0,FastingBS > 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,118.0,Yes,0.7,Flat,Present
+62.0,male,Asymptomatic,170.0,0.0,FastingBS > 120 mg/dl,Normal,150.0,Yes,2.0,Flat,Present
+50.0,male,Asymptomatic,130.0,336.0,FastingBS <= 120 mg/dl,Normal,140.0,Yes,2.0,Flat,Present
+61.0,male,Asymptomatic,120.0,0.0,FastingBS <= 120 mg/dl,Normal,84.0,Yes,0.5,Flat,Present
+50.0,male,Non-Anginal Pain,130.0,240.0,FastingBS <= 120 mg/dl,Normal,170.0,No,0.0,Up,Absent
+63.0,male,Asymptomatic,110.0,226.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,130.0,Yes,0.0,Flat,Present
+57.0,male,Asymptomatic,140.0,0.0,FastingBS > 120 mg/dl,Normal,155.0,No,0.0,Up,Present
+49.0,male,Asymptomatic,120.0,0.0,FastingBS <= 120 mg/dl,ST-T wave abnormality,120.0,No,0.0,Flat,Present
+55.0,male,Asymptomatic,155.0,0.0,FastingBS <= 120 mg/dl,Normal,100.0,No,0.0,Flat,Present
+52.0,female,Atypical Angina,120.0,295.0,FastingBS <= 120 mg/dl,Normal,173.0,No,0.0,Up,Absent
+63.0,male,Asymptomatic,120.0,0.0,FastingBS <= 120 mg/dl,Normal,120.0,No,1.5,Flat,Present
+56.0,male,Asymptomatic,120.0,254.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,150.0,Yes,1.6,Flat,Present
+51.0,male,Asymptomatic,115.0,0.0,FastingBS <= 120 mg/dl,Normal,140.0,No,0.0,Flat,Present
+44.0,male,Non-Anginal Pain,150.0,240.0,FastingBS <= 120 mg/dl,Normal,179.0,No,0.0,Up,Absent
+53.0,male,Non-Anginal Pain,130.0,215.0,FastingBS <= 120 mg/dl,Normal,141.0,No,1.2,Up,Absent
+47.0,male,Atypical Angina,130.0,224.0,FastingBS <= 120 mg/dl,Normal,140.0,No,0.0,Up,Absent
+61.0,male,Non-Anginal Pain,170.0,254.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,157.0,No,0.0,Flat,Present
+58.0,male,Asymptomatic,130.0,0.0,FastingBS <= 120 mg/dl,ST-T wave abnormality,125.0,Yes,1.5,Flat,Present
+41.0,female,Non-Anginal Pain,120.0,199.0,FastingBS <= 120 mg/dl,Normal,139.0,No,0.0,Up,Absent
+65.0,male,Asymptomatic,110.0,0.0,FastingBS <= 120 mg/dl,Normal,120.0,Yes,0.0,Flat,Present
+60.0,male,Asymptomatic,115.0,244.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,165.0,No,0.0,Flat,Present
+60.0,male,Asymptomatic,142.0,223.0,FastingBS <= 120 mg/dl,ST-T wave abnormality,119.0,Yes,1.0,Flat,Present
+42.0,male,Non-Anginal Pain,112.0,340.0,FastingBS <= 120 mg/dl,Normal,175.0,No,0.0,Up,Absent
+41.0,male,Asymptomatic,145.0,0.0,FastingBS <= 120 mg/dl,Normal,130.0,Yes,2.0,Flat,Present
+49.0,male,Non-Anginal Pain,120.0,201.0,FastingBS <= 120 mg/dl,Normal,165.0,No,0.0,Up,Absent
+38.0,male,Asymptomatic,120.0,269.0,FastingBS <= 120 mg/dl,Normal,144.0,No,0.4,Flat,Present
+61.0,male,Asymptomatic,128.0,285.0,FastingBS > 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,125.0,Yes,1.5,Flat,Present
+61.0,male,Asymptomatic,120.0,0.0,FastingBS > 120 mg/dl,Normal,105.0,No,0.0,Flat,Present
+62.0,male,Asymptomatic,125.0,0.0,FastingBS > 120 mg/dl,Normal,108.0,Yes,1.7,Down,Present
+50.0,male,Non-Anginal Pain,140.0,234.0,FastingBS <= 120 mg/dl,ST-T wave abnormality,137.0,No,0.0,Up,Absent
+47.0,male,Asymptomatic,140.0,243.0,FastingBS <= 120 mg/dl,Normal,118.0,Yes,2.0,Flat,Present
+56.0,male,Asymptomatic,160.0,0.0,FastingBS > 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,122.0,No,1.4,Flat,Present
+45.0,male,Atypical Angina,130.0,295.0,FastingBS <= 120 mg/dl,Normal,180.0,No,0.0,Up,Absent
+39.0,female,Non-Anginal Pain,110.0,167.0,FastingBS <= 120 mg/dl,Normal,190.0,No,0.0,Up,Absent
+50.0,male,Non-Anginal Pain,135.0,219.0,FastingBS <= 120 mg/dl,Normal,110.0,No,0.0,Flat,Present
+51.0,female,Non-Anginal Pain,140.0,197.0,FastingBS <= 120 mg/dl,Normal,120.0,Yes,0.0,Up,Absent
+43.0,male,Typical Angina,120.0,254.0,FastingBS <= 120 mg/dl,Normal,170.0,No,0.0,Flat,Absent
+54.0,male,Atypical Angina,120.0,305.0,FastingBS <= 120 mg/dl,Normal,140.0,No,0.0,Up,Absent
+56.0,male,Asymptomatic,142.0,216.0,FastingBS <= 120 mg/dl,Normal,122.0,Yes,0.0,Flat,Present
+38.0,male,Asymptomatic,130.0,217.0,FastingBS <= 120 mg/dl,Normal,130.0,Yes,1.0,Flat,Present
+46.0,male,Asymptomatic,160.0,214.0,FastingBS <= 120 mg/dl,Normal,144.0,Yes,2.0,Flat,Present
+45.0,male,Asymptomatic,130.0,220.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,138.0,No,0.0,Up,Absent
+62.0,male,Asymptomatic,150.0,0.0,FastingBS > 120 mg/dl,Normal,69.0,Yes,2.0,Flat,Present
+55.0,male,Asymptomatic,105.0,0.0,FastingBS <= 120 mg/dl,Normal,120.0,Yes,0.0,Flat,Present
+38.0,male,Asymptomatic,160.0,270.0,FastingBS <= 120 mg/dl,Normal,120.0,Yes,1.0,Flat,Present
+44.0,male,Atypical Angina,120.0,245.0,FastingBS <= 120 mg/dl,Normal,155.0,No,0.0,Up,Absent
+61.0,male,Asymptomatic,155.0,0.0,FastingBS <= 120 mg/dl,Normal,116.0,Yes,1.5,Flat,Present
+55.0,male,Asymptomatic,140.0,274.0,FastingBS <= 120 mg/dl,Normal,115.0,Yes,1.0,Flat,Present
+64.0,male,Asymptomatic,144.0,0.0,FastingBS > 120 mg/dl,ST-T wave abnormality,128.0,Yes,2.0,Flat,Present
+56.0,male,Asymptomatic,120.0,0.0,FastingBS > 120 mg/dl,Normal,122.0,Yes,0.0,Flat,Present
+63.0,male,Non-Anginal Pain,115.0,0.0,FastingBS <= 120 mg/dl,Normal,69.0,No,0.0,Flat,Present
+58.0,male,Asymptomatic,130.0,248.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,142.0,No,0.0,Up,Present
+61.0,male,Asymptomatic,110.0,237.0,FastingBS <= 120 mg/dl,Normal,140.0,No,0.0,Flat,Present
+63.0,male,Asymptomatic,130.0,200.0,FastingBS > 120 mg/dl,ST-T wave abnormality,130.0,Yes,1.5,Flat,Present
+57.0,male,Asymptomatic,135.0,0.0,FastingBS > 120 mg/dl,Normal,113.0,Yes,1.2,Flat,Present
+58.0,male,Atypical Angina,120.0,0.0,FastingBS <= 120 mg/dl,Normal,120.0,No,1.0,Flat,Absent
+53.0,male,Asymptomatic,125.0,0.0,FastingBS > 120 mg/dl,ST-T wave abnormality,118.0,Yes,3.0,Flat,Present
+62.0,male,Asymptomatic,132.0,0.0,FastingBS > 120 mg/dl,ST-T wave abnormality,125.0,Yes,1.2,Flat,Present
+72.0,male,Asymptomatic,130.0,0.0,FastingBS <= 120 mg/dl,Normal,113.0,Yes,0.0,Flat,Present
+55.0,male,Atypical Angina,130.0,208.0,FastingBS <= 120 mg/dl,Normal,154.0,No,0.0,Up,Absent
+53.0,male,Asymptomatic,150.0,0.0,FastingBS <= 120 mg/dl,ST-T wave abnormality,145.0,Yes,2.0,Flat,Present
+48.0,male,Asymptomatic,120.0,0.0,FastingBS > 120 mg/dl,Normal,120.0,Yes,0.0,Flat,Present
+60.0,male,Asymptomatic,160.0,0.0,FastingBS > 120 mg/dl,Normal,105.0,Yes,2.0,Flat,Present
+47.0,male,Non-Anginal Pain,130.0,250.0,FastingBS <= 120 mg/dl,Normal,172.0,No,0.0,Up,Absent
+48.0,male,Asymptomatic,100.0,211.0,FastingBS <= 120 mg/dl,Normal,112.0,Yes,2.5,Flat,Present
+54.0,female,Atypical Angina,120.0,245.0,FastingBS <= 120 mg/dl,Normal,170.0,No,0.0,Up,Absent
+61.0,male,Asymptomatic,140.0,0.0,FastingBS <= 120 mg/dl,Normal,105.0,Yes,0.0,Flat,Present
+53.0,male,Asymptomatic,120.0,0.0,FastingBS <= 120 mg/dl,Normal,105.0,Yes,0.0,Flat,Present
+41.0,male,Non-Anginal Pain,130.0,227.0,FastingBS <= 120 mg/dl,Normal,142.0,No,0.0,Up,Absent
+63.0,male,Asymptomatic,141.0,0.0,FastingBS <= 120 mg/dl,ST-T wave abnormality,86.0,Yes,2.0,Flat,Present
+40.0,male,Non-Anginal Pain,160.0,230.0,FastingBS <= 120 mg/dl,Normal,170.0,No,0.0,Flat,Present
+59.0,male,Asymptomatic,130.0,0.0,FastingBS <= 120 mg/dl,Normal,115.0,Yes,0.0,Flat,Present
+54.0,male,Asymptomatic,110.0,0.0,FastingBS <= 120 mg/dl,Normal,120.0,No,0.0,Up,Absent
+54.0,male,Non-Anginal Pain,170.0,195.0,FastingBS <= 120 mg/dl,Normal,150.0,No,0.0,Up,Absent
+52.0,male,Atypical Angina,120.0,220.0,FastingBS <= 120 mg/dl,Normal,170.0,No,0.0,Up,Absent
+69.0,male,Asymptomatic,120.0,0.0,FastingBS > 120 mg/dl,Normal,115.0,No,1.5,Flat,Present
+62.0,male,Asymptomatic,140.0,0.0,FastingBS <= 120 mg/dl,Normal,115.0,Yes,0.0,Flat,Present
+50.0,male,Asymptomatic,130.0,0.0,FastingBS > 120 mg/dl,Normal,117.0,Yes,0.0,Flat,Present
+58.0,male,Asymptomatic,140.0,288.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,140.0,Yes,3.0,Flat,Present
+49.0,male,Asymptomatic,140.0,0.0,FastingBS <= 120 mg/dl,Normal,130.0,No,2.0,Flat,Present
+38.0,male,Asymptomatic,120.0,0.0,FastingBS <= 120 mg/dl,Normal,148.0,No,1.0,Flat,Present
+53.0,male,Asymptomatic,120.0,271.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,111.0,Yes,0.0,Up,Absent
+42.0,male,Atypical Angina,140.0,266.0,FastingBS <= 120 mg/dl,Normal,175.0,No,0.0,Up,Absent
+57.0,male,Asymptomatic,155.0,0.0,FastingBS > 120 mg/dl,ST-T wave abnormality,140.0,No,0.0,Flat,Present
+51.0,male,Atypical Angina,120.0,204.0,FastingBS <= 120 mg/dl,Normal,145.0,No,0.0,Up,Absent
+58.0,male,Asymptomatic,140.0,260.0,FastingBS <= 120 mg/dl,Normal,120.0,Yes,2.0,Flat,Present
+41.0,male,Non-Anginal Pain,130.0,0.0,FastingBS > 120 mg/dl,Normal,105.0,Yes,1.0,Flat,Present
+49.0,female,Atypical Angina,150.0,225.0,FastingBS <= 120 mg/dl,Normal,145.0,No,0.0,Up,Absent
+68.0,male,Asymptomatic,134.0,203.0,FastingBS <= 120 mg/dl,Normal,112.0,Yes,1.7,Flat,Present
+58.0,male,Asymptomatic,125.0,0.0,FastingBS > 120 mg/dl,ST-T wave abnormality,120.0,Yes,1.5,Flat,Present
+59.0,male,Non-Anginal Pain,120.0,0.0,FastingBS <= 120 mg/dl,Normal,98.0,Yes,0.0,Flat,Present
+44.0,female,Atypical Angina,134.0,241.0,FastingBS <= 120 mg/dl,Normal,138.0,No,0.8,Up,Absent
+53.0,male,Atypical Angina,140.0,201.0,FastingBS <= 120 mg/dl,ST-T wave abnormality,132.0,No,0.0,Up,Absent
+59.0,male,Asymptomatic,134.0,0.0,FastingBS > 120 mg/dl,Normal,120.0,Yes,0.0,Flat,Present
+64.0,male,Asymptomatic,110.0,0.0,FastingBS > 120 mg/dl,ST-T wave abnormality,105.0,Yes,0.0,Flat,Present
+54.0,male,Atypical Angina,120.0,320.0,FastingBS <= 120 mg/dl,Normal,170.0,No,0.0,Up,Absent
+51.0,male,Asymptomatic,160.0,0.0,FastingBS > 120 mg/dl,Normal,110.0,No,0.0,Flat,Present
+59.0,male,Asymptomatic,130.0,310.0,FastingBS > 120 mg/dl,ST-T wave abnormality,130.0,Yes,1.0,Flat,Present
+54.0,male,Asymptomatic,140.0,0.0,FastingBS <= 120 mg/dl,Normal,125.0,No,0.0,Flat,Present
+56.0,male,Asymptomatic,120.0,0.0,FastingBS > 120 mg/dl,ST-T wave abnormality,112.0,Yes,3.0,Down,Present
+57.0,male,Asymptomatic,145.0,306.0,FastingBS > 120 mg/dl,ST-T wave abnormality,112.0,Yes,2.0,Flat,Present
+61.0,male,Non-Anginal Pain,136.0,213.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,150.0,No,0.0,Flat,Present
+49.0,male,Asymptomatic,115.0,294.0,FastingBS <= 120 mg/dl,Normal,105.0,No,2.0,Flat,Present
+57.0,male,Asymptomatic,120.0,225.0,FastingBS <= 120 mg/dl,Normal,122.0,Yes,1.0,Flat,Present
+54.0,male,Asymptomatic,130.0,219.0,FastingBS <= 120 mg/dl,Normal,122.0,Yes,2.0,Flat,Present
+38.0,male,Non-Anginal Pain,140.0,195.0,FastingBS <= 120 mg/dl,Normal,170.0,No,0.0,Flat,Present
+59.0,male,Asymptomatic,160.0,0.0,FastingBS <= 120 mg/dl,Normal,105.0,Yes,2.0,Down,Present
+50.0,male,Non-Anginal Pain,120.0,204.0,FastingBS <= 120 mg/dl,Normal,110.0,No,0.0,Up,Absent
+46.0,male,Asymptomatic,130.0,0.0,FastingBS <= 120 mg/dl,Normal,140.0,Yes,1.0,Flat,Present
+50.0,male,Atypical Angina,102.0,211.0,FastingBS <= 120 mg/dl,Normal,168.0,No,0.0,Up,Absent
+55.0,male,Asymptomatic,140.0,0.0,FastingBS <= 120 mg/dl,ST-T wave abnormality,124.0,Yes,1.5,Flat,Present
+52.0,male,Asymptomatic,160.0,0.0,FastingBS > 120 mg/dl,Normal,120.0,Yes,0.2,Up,Present
+47.0,male,Asymptomatic,120.0,186.0,FastingBS <= 120 mg/dl,Normal,118.0,Yes,1.5,Flat,Present
+53.0,male,Asymptomatic,120.0,246.0,FastingBS <= 120 mg/dl,Normal,103.0,No,0.0,Flat,Present
+42.0,male,Asymptomatic,125.0,298.0,FastingBS <= 120 mg/dl,Normal,122.0,Yes,1.5,Flat,Present
+60.0,male,Asymptomatic,125.0,282.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,119.0,Yes,2.8,Flat,Present
+54.0,male,Asymptomatic,140.0,311.0,FastingBS <= 120 mg/dl,Normal,130.0,Yes,1.5,Flat,Present
+52.0,male,Atypical Angina,120.0,238.0,FastingBS <= 120 mg/dl,ST-T wave abnormality,150.0,No,0.0,Up,Absent
+57.0,male,Asymptomatic,140.0,256.0,FastingBS > 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,144.0,Yes,2.6,Flat,Present
+41.0,female,Asymptomatic,115.0,0.0,FastingBS <= 120 mg/dl,Normal,115.0,No,1.5,Up,Present
+54.0,male,Atypical Angina,140.0,220.0,FastingBS <= 120 mg/dl,Normal,146.0,No,0.0,Up,Absent
+63.0,male,Asymptomatic,125.0,0.0,FastingBS <= 120 mg/dl,Normal,125.0,No,1.2,Flat,Present
+59.0,female,Atypical Angina,120.0,195.0,FastingBS <= 120 mg/dl,Normal,140.0,No,0.0,Up,Absent
+47.0,male,Asymptomatic,130.0,207.0,FastingBS <= 120 mg/dl,Normal,110.0,Yes,1.0,Flat,Present
+58.0,male,Asymptomatic,180.0,466.0,FastingBS > 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,149.0,No,2.4,Flat,Present
+54.0,male,Asymptomatic,170.0,217.0,FastingBS <= 120 mg/dl,Normal,115.0,Yes,2.5,Flat,Present
+48.0,male,Asymptomatic,150.0,234.0,FastingBS <= 120 mg/dl,Normal,158.0,No,0.0,Up,Absent
+44.0,male,Atypical Angina,110.0,214.0,FastingBS <= 120 mg/dl,Normal,180.0,No,0.0,Flat,Absent
+47.0,male,Asymptomatic,120.0,0.0,FastingBS > 120 mg/dl,Normal,98.0,Yes,0.0,Flat,Present
+51.0,female,Asymptomatic,125.0,250.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,163.0,No,0.4,Flat,Absent
+54.0,male,Non-Anginal Pain,140.0,199.0,FastingBS <= 120 mg/dl,Normal,168.0,No,0.0,Up,Absent
+54.0,male,Asymptomatic,95.0,0.0,FastingBS <= 120 mg/dl,Normal,125.0,Yes,1.2,Flat,Present
+60.0,male,Asymptomatic,138.0,214.0,FastingBS <= 120 mg/dl,Normal,142.0,Yes,2.0,Up,Present
+56.0,male,Non-Anginal Pain,160.0,0.0,FastingBS <= 120 mg/dl,Normal,92.0,No,0.0,Flat,Present
+52.0,male,Asymptomatic,120.0,0.0,FastingBS <= 120 mg/dl,Normal,115.0,Yes,1.0,Flat,Absent
+54.0,male,Asymptomatic,130.0,0.0,FastingBS > 120 mg/dl,Normal,150.0,No,1.2,Flat,Present
+51.0,female,Non-Anginal Pain,160.0,235.0,FastingBS <= 120 mg/dl,Normal,167.0,No,0.0,Up,Absent
+48.0,male,Non-Anginal Pain,140.0,213.0,FastingBS <= 120 mg/dl,Normal,130.0,No,0.0,Up,Absent
+60.0,male,Asymptomatic,160.0,208.0,FastingBS <= 120 mg/dl,Normal,105.0,Yes,1.6,Flat,Present
+34.0,male,Non-Anginal Pain,120.0,215.0,FastingBS <= 120 mg/dl,Normal,180.0,No,0.0,Up,Absent
+43.0,male,Asymptomatic,110.0,0.0,FastingBS <= 120 mg/dl,Normal,140.0,Yes,1.0,Flat,Present
+37.0,female,Atypical Angina,120.0,168.0,FastingBS <= 120 mg/dl,Normal,155.0,No,0.0,Up,Absent
+56.0,male,Asymptomatic,130.0,0.0,FastingBS > 120 mg/dl,Normal,120.0,No,0.0,Flat,Present
+65.0,male,Asymptomatic,140.0,219.0,FastingBS <= 120 mg/dl,Normal,112.0,Yes,2.0,Flat,Present
+49.0,female,Atypical Angina,140.0,207.0,FastingBS <= 120 mg/dl,Normal,155.0,No,0.0,Up,Absent
+48.0,male,Asymptomatic,140.0,237.0,FastingBS <= 120 mg/dl,Normal,130.0,No,0.0,Flat,Present
+42.0,female,Non-Anginal Pain,130.0,196.0,FastingBS <= 120 mg/dl,Normal,137.0,No,0.0,Up,Absent
+32.0,male,Asymptomatic,115.0,0.0,FastingBS <= 120 mg/dl,Normal,120.0,No,0.0,Flat,Present
+63.0,male,Non-Anginal Pain,120.0,0.0,FastingBS <= 120 mg/dl,Normal,140.0,No,0.0,Flat,Present
+61.0,male,Asymptomatic,115.0,0.0,FastingBS <= 120 mg/dl,Normal,143.0,Yes,2.0,Flat,Present
+42.0,male,Atypical Angina,132.0,196.0,FastingBS <= 120 mg/dl,Normal,142.0,No,0.0,Up,Absent
+50.0,male,Asymptomatic,135.0,237.0,FastingBS <= 120 mg/dl,Normal,118.0,Yes,2.0,Flat,Present
+57.0,male,Non-Anginal Pain,120.0,214.0,FastingBS <= 120 mg/dl,Normal,114.0,No,0.0,Up,Absent
+61.0,male,Non-Anginal Pain,120.0,0.0,FastingBS <= 120 mg/dl,Normal,124.0,Yes,1.5,Flat,Present
+29.0,male,Atypical Angina,100.0,271.0,FastingBS <= 120 mg/dl,Normal,160.0,No,0.0,Up,Absent
+48.0,male,Non-Anginal Pain,150.0,209.0,FastingBS <= 120 mg/dl,Normal,137.0,No,0.0,Up,Absent
+60.0,female,Non-Anginal Pain,160.0,0.0,FastingBS > 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,127.0,No,0.6,Flat,Present
+61.0,male,Asymptomatic,115.0,0.0,FastingBS > 120 mg/dl,Normal,110.0,Yes,1.0,Flat,Present
+54.0,female,Atypical Angina,140.0,240.0,FastingBS <= 120 mg/dl,Normal,138.0,No,0.0,Up,Absent
+43.0,male,Non-Anginal Pain,120.0,175.0,FastingBS <= 120 mg/dl,Normal,120.0,No,0.0,Up,Absent
+56.0,male,Asymptomatic,115.0,0.0,FastingBS <= 120 mg/dl,ST-T wave abnormality,84.0,No,0.0,Flat,Present
+41.0,female,Atypical Angina,140.0,254.0,FastingBS <= 120 mg/dl,Normal,156.0,No,0.0,Up,Absent
+69.0,male,Asymptomatic,130.0,273.0,FastingBS <= 120 mg/dl,Normal,94.0,Yes,2.0,Flat,Present
+46.0,male,Asymptomatic,115.0,0.0,FastingBS > 120 mg/dl,Normal,150.0,No,0.0,Flat,Present
+36.0,male,Asymptomatic,140.0,192.0,FastingBS <= 120 mg/dl,Normal,182.0,No,0.0,Up,Absent
+55.0,female,Atypical Angina,155.0,198.0,FastingBS <= 120 mg/dl,Normal,150.0,No,0.0,Up,Absent
+54.0,male,Asymptomatic,126.0,342.0,FastingBS <= 120 mg/dl,Normal,110.0,Yes,1.5,Flat,Present
+44.0,male,Atypical Angina,120.0,198.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,160.0,No,0.0,Up,Absent
+57.0,male,Asymptomatic,130.0,254.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,154.0,No,0.0,Flat,Present
+45.0,female,Asymptomatic,140.0,215.0,FastingBS <= 120 mg/dl,Normal,140.0,No,0.0,Up,Absent
+57.0,male,Asymptomatic,160.0,228.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,114.0,No,1.5,Flat,Present
+54.0,male,Non-Anginal Pain,122.0,201.0,FastingBS <= 120 mg/dl,Normal,165.0,No,0.0,Up,Absent
+41.0,female,Asymptomatic,120.0,230.0,FastingBS <= 120 mg/dl,Normal,160.0,No,0.0,Up,Absent
+56.0,female,Atypical Angina,140.0,240.0,FastingBS <= 120 mg/dl,Normal,160.0,No,0.0,Up,Absent
+65.0,male,Asymptomatic,160.0,0.0,FastingBS > 120 mg/dl,ST-T wave abnormality,109.0,Yes,1.5,Down,Present
+47.0,female,Non-Anginal Pain,130.0,196.0,FastingBS <= 120 mg/dl,Normal,162.0,No,0.0,Up,Absent
+63.0,male,Asymptomatic,140.0,0.0,FastingBS > 120 mg/dl,Normal,130.0,Yes,1.0,Flat,Present
+65.0,female,Non-Anginal Pain,145.0,360.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,157.0,Yes,0.8,Flat,Absent
+58.0,male,Asymptomatic,150.0,249.0,FastingBS > 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,126.0,No,0.0,Flat,Present
+52.0,male,Atypical Angina,130.0,284.0,FastingBS <= 120 mg/dl,Normal,135.0,No,0.0,Up,Absent
+55.0,male,Asymptomatic,130.0,412.0,FastingBS <= 120 mg/dl,Normal,150.0,No,0.0,Up,Absent
+61.0,male,Asymptomatic,150.0,0.0,FastingBS <= 120 mg/dl,Normal,126.0,Yes,2.0,Flat,Present
+61.0,male,Asymptomatic,110.0,0.0,FastingBS > 120 mg/dl,Normal,105.0,No,0.0,Flat,Present
+75.0,male,Asymptomatic,160.0,254.0,FastingBS > 120 mg/dl,Normal,108.0,Yes,0.5,Flat,Present
+45.0,male,Asymptomatic,130.0,206.0,FastingBS <= 120 mg/dl,Normal,122.0,No,1.0,Flat,Present
+58.0,male,Typical Angina,136.0,220.0,FastingBS <= 120 mg/dl,Normal,125.0,No,2.8,Down,Present
+64.0,male,Asymptomatic,160.0,0.0,FastingBS > 120 mg/dl,ST-T wave abnormality,150.0,No,0.0,Flat,Present
+66.0,male,Asymptomatic,160.0,0.0,FastingBS > 120 mg/dl,Normal,98.0,No,0.0,Flat,Present
+37.0,male,Non-Anginal Pain,130.0,185.0,FastingBS <= 120 mg/dl,Normal,138.0,No,0.0,Up,Absent
+54.0,male,Asymptomatic,160.0,258.0,FastingBS <= 120 mg/dl,ST-T wave abnormality,125.0,Yes,1.5,Flat,Present
+62.0,male,Asymptomatic,120.0,0.0,FastingBS > 120 mg/dl,Normal,73.0,Yes,2.0,Flat,Present
+38.0,male,Asymptomatic,125.0,0.0,FastingBS <= 120 mg/dl,Normal,145.0,Yes,2.0,Flat,Present
+53.0,male,Atypical Angina,120.0,297.0,FastingBS <= 120 mg/dl,Normal,156.0,No,0.0,Up,Absent
+56.0,male,Asymptomatic,170.0,0.0,FastingBS <= 120 mg/dl,ST-T wave abnormality,122.0,Yes,1.0,Flat,Present
+69.0,male,Asymptomatic,115.0,0.0,FastingBS <= 120 mg/dl,ST-T wave abnormality,103.0,Yes,0.0,Flat,Present
+47.0,male,Non-Anginal Pain,120.0,195.0,FastingBS <= 120 mg/dl,Normal,150.0,No,0.0,Up,Absent
+58.0,male,Asymptomatic,120.0,0.0,FastingBS > 120 mg/dl,Normal,115.0,No,0.0,Flat,Present
+40.0,male,Atypical Angina,152.0,254.0,FastingBS <= 120 mg/dl,ST-T wave abnormality,171.0,No,0.0,Up,Absent
+54.0,male,Atypical Angina,120.0,220.0,FastingBS <= 120 mg/dl,Normal,160.0,No,0.0,Up,Absent
+59.0,male,Asymptomatic,124.0,0.0,FastingBS <= 120 mg/dl,Normal,126.0,Yes,0.0,Flat,Present
+47.0,male,Non-Anginal Pain,120.0,215.0,FastingBS <= 120 mg/dl,Normal,140.0,No,0.0,Up,Absent
+49.0,male,Atypical Angina,130.0,201.0,FastingBS <= 120 mg/dl,Normal,150.0,No,0.0,Up,Absent
+63.0,male,Non-Anginal Pain,120.0,237.0,FastingBS <= 120 mg/dl,Normal,143.0,Yes,0.5,Flat,Present
+60.0,male,Asymptomatic,135.0,294.0,FastingBS <= 120 mg/dl,ST-T wave abnormality,140.0,Yes,3.0,Flat,Present
+55.0,male,Non-Anginal Pain,110.0,220.0,FastingBS <= 120 mg/dl,Normal,162.0,No,0.0,Up,Absent
+54.0,male,Non-Anginal Pain,160.0,274.0,FastingBS <= 120 mg/dl,Normal,130.0,Yes,2.0,Flat,Present
+45.0,female,Non-Anginal Pain,130.0,240.0,FastingBS <= 120 mg/dl,Normal,174.0,No,0.0,Up,Absent
+62.0,male,Asymptomatic,160.0,0.0,FastingBS > 120 mg/dl,ST-T wave abnormality,105.0,Yes,0.0,Flat,Present
+48.0,male,Asymptomatic,115.0,0.0,FastingBS <= 120 mg/dl,Normal,120.0,Yes,1.0,Flat,Absent
+56.0,male,Asymptomatic,150.0,0.0,FastingBS > 120 mg/dl,Normal,125.0,No,0.0,Flat,Present
+61.0,male,Asymptomatic,130.0,0.0,FastingBS > 120 mg/dl,Normal,105.0,Yes,0.0,Flat,Present
+46.0,male,Asymptomatic,140.0,263.0,FastingBS <= 120 mg/dl,Normal,130.0,Yes,1.0,Flat,Present
+45.0,male,Atypical Angina,130.0,236.0,FastingBS <= 120 mg/dl,Normal,155.0,No,0.0,Flat,Present
+61.0,male,Asymptomatic,130.0,0.0,FastingBS > 120 mg/dl,ST-T wave abnormality,94.0,Yes,0.0,Flat,Present
+55.0,male,Asymptomatic,125.0,0.0,FastingBS > 120 mg/dl,ST-T wave abnormality,105.0,Yes,1.5,Down,Present
+58.0,male,Non-Anginal Pain,130.0,220.0,FastingBS <= 120 mg/dl,ST-T wave abnormality,154.0,No,0.0,Up,Absent
+41.0,female,Atypical Angina,130.0,209.0,FastingBS <= 120 mg/dl,Normal,160.0,No,0.0,Up,Absent
+56.0,male,Asymptomatic,150.0,193.0,FastingBS > 120 mg/dl,Normal,110.0,Yes,2.0,Flat,Present
+46.0,male,Asymptomatic,95.0,0.0,FastingBS <= 120 mg/dl,Normal,125.0,Yes,1.0,Flat,Present
+62.0,male,Asymptomatic,130.0,0.0,FastingBS > 120 mg/dl,Normal,144.0,No,1.2,Flat,Present
+39.0,male,Atypical Angina,130.0,295.0,FastingBS <= 120 mg/dl,Normal,140.0,No,0.0,Up,Absent
+52.0,male,Asymptomatic,160.0,294.0,FastingBS <= 120 mg/dl,Normal,154.0,Yes,1.0,Flat,Present
+42.0,male,Atypical Angina,120.0,238.0,FastingBS <= 120 mg/dl,Normal,155.0,No,0.0,Up,Absent
+57.0,female,Atypical Angina,130.0,264.0,FastingBS <= 120 mg/dl,Normal,168.0,No,0.0,Up,Absent
+54.0,male,Atypical Angina,120.0,215.0,FastingBS <= 120 mg/dl,Normal,138.0,No,0.0,Up,Absent
+50.0,male,Asymptomatic,140.0,243.0,FastingBS <= 120 mg/dl,Normal,140.0,Yes,1.0,Flat,Present
+41.0,male,Non-Anginal Pain,110.0,196.0,FastingBS <= 120 mg/dl,Normal,138.0,No,0.0,Up,Absent
+51.0,male,Atypical Angina,140.0,215.0,FastingBS <= 120 mg/dl,Normal,185.0,No,0.0,Up,Absent
+63.0,male,Non-Anginal Pain,150.0,0.0,FastingBS <= 120 mg/dl,Normal,86.0,No,0.0,Flat,Present
+44.0,male,Non-Anginal Pain,135.0,196.0,FastingBS <= 120 mg/dl,Normal,152.0,No,0.0,Up,Absent
+63.0,male,Non-Anginal Pain,160.0,0.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,113.0,Yes,0.0,Flat,Present
+49.0,male,Atypical Angina,140.0,204.0,FastingBS <= 120 mg/dl,Normal,145.0,No,0.0,Up,Absent
+68.0,male,Asymptomatic,140.0,0.0,FastingBS > 120 mg/dl,ST-T wave abnormality,130.0,No,0.0,Flat,Present
+42.0,male,Non-Anginal Pain,130.0,197.0,FastingBS <= 120 mg/dl,Normal,178.0,No,0.0,Up,Absent
+52.0,male,Non-Anginal Pain,120.0,223.0,FastingBS <= 120 mg/dl,Normal,96.0,No,0.0,Flat,Present
+40.0,female,Atypical Angina,120.0,309.0,FastingBS <= 120 mg/dl,Normal,155.0,No,0.0,Up,Absent
+54.0,male,Atypical Angina,130.0,275.0,FastingBS <= 120 mg/dl,ST-T wave abnormality,150.0,No,0.0,Up,Absent
+39.0,male,Non-Anginal Pain,140.0,196.0,FastingBS <= 120 mg/dl,Normal,160.0,No,0.0,Up,Absent
+45.0,male,Atypical Angina,118.0,199.0,FastingBS <= 120 mg/dl,Normal,188.0,No,0.0,Up,Absent
+61.0,male,Asymptomatic,110.0,0.0,FastingBS > 120 mg/dl,Normal,130.0,Yes,1.0,Flat,Present
+51.0,male,Asymptomatic,118.0,243.0,FastingBS <= 120 mg/dl,Normal,143.0,No,0.4,Up,Absent
+50.0,male,Asymptomatic,140.0,273.0,FastingBS <= 120 mg/dl,Normal,150.0,No,0.0,Up,Absent
+52.0,male,Asymptomatic,160.0,223.0,FastingBS <= 120 mg/dl,Normal,143.0,No,0.0,Up,Absent
+53.0,male,Asymptomatic,115.0,0.0,FastingBS > 120 mg/dl,Normal,110.0,Yes,1.0,Flat,Present
+54.0,male,Atypical Angina,120.0,254.0,FastingBS <= 120 mg/dl,Normal,184.0,No,0.0,Up,Absent
+64.0,male,Asymptomatic,145.0,0.0,FastingBS <= 120 mg/dl,Normal,105.0,Yes,0.0,Flat,Present
+46.0,male,Asymptomatic,140.0,0.0,FastingBS <= 120 mg/dl,Normal,120.0,Yes,0.0,Flat,Present
+42.0,female,Atypical Angina,140.0,308.0,FastingBS <= 120 mg/dl,Normal,160.0,No,0.0,Up,Absent
+54.0,male,Non-Anginal Pain,130.0,211.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,137.0,No,0.4,Up,Absent
+42.0,male,Atypical Angina,120.0,204.0,FastingBS <= 120 mg/dl,ST-T wave abnormality,155.0,No,0.0,Up,Absent
+54.0,male,Non-Anginal Pain,140.0,243.0,FastingBS <= 120 mg/dl,Normal,130.0,No,0.0,Up,Absent
+51.0,female,Non-Anginal Pain,120.0,277.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,110.0,No,0.0,Up,Absent
+58.0,male,Asymptomatic,160.0,263.0,FastingBS > 120 mg/dl,Normal,150.0,No,0.0,Flat,Present
+65.0,male,Asymptomatic,160.0,341.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,130.0,Yes,2.0,Flat,Present
+55.0,female,Non-Anginal Pain,140.0,275.0,FastingBS <= 120 mg/dl,Normal,150.0,Yes,0.0,Flat,Absent
+56.0,male,Asymptomatic,150.0,0.0,FastingBS <= 120 mg/dl,Normal,140.0,Yes,1.0,Flat,Present
+58.0,male,Asymptomatic,150.0,288.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,118.0,Yes,2.0,Flat,Present
+52.0,female,Non-Anginal Pain,120.0,220.0,FastingBS <= 120 mg/dl,Normal,170.0,No,0.0,Up,Absent
+43.0,male,Atypical Angina,120.0,295.0,FastingBS <= 120 mg/dl,Normal,160.0,No,0.0,Up,Absent
+42.0,male,Atypical Angina,130.0,220.0,FastingBS <= 120 mg/dl,Normal,120.0,No,0.0,Up,Absent
+54.0,male,Atypical Angina,110.0,215.0,FastingBS <= 120 mg/dl,Normal,158.0,No,0.2,Up,Absent
+52.0,male,Asymptomatic,120.0,0.0,FastingBS <= 120 mg/dl,Normal,158.0,No,0.0,Up,Absent
+45.0,male,Non-Anginal Pain,150.0,235.0,FastingBS <= 120 mg/dl,Normal,165.0,No,0.0,Up,Absent
+61.0,male,Non-Anginal Pain,135.0,0.0,FastingBS > 120 mg/dl,Normal,100.0,No,0.0,Flat,Present
+42.0,male,Atypical Angina,120.0,308.0,FastingBS <= 120 mg/dl,Normal,172.0,No,0.0,Up,Absent
+49.0,male,Non-Anginal Pain,130.0,197.0,FastingBS <= 120 mg/dl,Normal,162.0,Yes,1.5,Flat,Absent
+55.0,female,Asymptomatic,120.0,0.0,FastingBS <= 120 mg/dl,Normal,125.0,Yes,1.2,Flat,Present
+34.0,female,Non-Anginal Pain,160.0,179.0,FastingBS <= 120 mg/dl,Normal,163.0,No,0.0,Up,Absent
+43.0,male,Asymptomatic,145.0,0.0,FastingBS <= 120 mg/dl,Normal,120.0,Yes,0.0,Flat,Present
+58.0,female,Atypical Angina,120.0,295.0,FastingBS <= 120 mg/dl,Normal,120.0,No,0.0,Up,Absent
+48.0,male,Asymptomatic,110.0,216.0,FastingBS <= 120 mg/dl,Normal,140.0,Yes,2.0,Flat,Present
+39.0,male,Non-Anginal Pain,130.0,235.0,FastingBS <= 120 mg/dl,Normal,165.0,No,0.0,Up,Absent
+54.0,male,Asymptomatic,120.0,248.0,FastingBS <= 120 mg/dl,Normal,140.0,Yes,1.5,Flat,Present
+52.0,male,Atypical Angina,130.0,219.0,FastingBS <= 120 mg/dl,Normal,140.0,No,0.0,Up,Absent
+61.0,male,Asymptomatic,120.0,0.0,FastingBS > 120 mg/dl,Normal,115.0,Yes,0.0,Flat,Present
+60.0,male,Asymptomatic,160.0,258.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,142.0,Yes,2.0,Flat,Present
+37.0,male,Non-Anginal Pain,120.0,269.0,FastingBS <= 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,132.0,No,0.0,Up,Absent
+49.0,male,Non-Anginal Pain,130.0,211.0,FastingBS <= 120 mg/dl,Normal,160.0,No,0.0,Flat,Present
+48.0,male,Non-Anginal Pain,115.0,0.0,FastingBS <= 120 mg/dl,Normal,120.0,No,0.0,Flat,Present
+42.0,male,Non-Anginal Pain,130.0,235.0,FastingBS <= 120 mg/dl,Normal,172.0,No,0.0,Up,Absent
+50.0,female,Atypical Angina,120.0,309.0,FastingBS <= 120 mg/dl,Normal,160.0,No,0.0,Up,Absent
+65.0,female,Non-Anginal Pain,145.0,0.0,FastingBS > 120 mg/dl,Normal,110.0,No,0.8,Up,Present
+49.0,male,Asymptomatic,140.0,237.0,FastingBS <= 120 mg/dl,Normal,150.0,Yes,2.0,Flat,Present
+64.0,male,Asymptomatic,160.0,0.0,FastingBS > 120 mg/dl,ST-T wave abnormality,115.0,Yes,2.0,Flat,Present
+51.0,male,Asymptomatic,115.0,0.0,FastingBS <= 120 mg/dl,Normal,100.0,No,0.0,Up,Present
+42.0,male,Atypical Angina,110.0,182.0,FastingBS <= 120 mg/dl,Normal,180.0,No,0.0,Up,Absent
+44.0,male,Asymptomatic,140.0,226.0,FastingBS <= 120 mg/dl,Normal,140.0,No,0.0,Up,Absent
+39.0,female,Atypical Angina,120.0,196.0,FastingBS <= 120 mg/dl,Normal,175.0,No,0.0,Up,Absent
+53.0,male,Non-Anginal Pain,140.0,253.0,FastingBS <= 120 mg/dl,Normal,144.0,No,0.2,Up,Absent
+48.0,male,Asymptomatic,170.0,230.0,FastingBS <= 120 mg/dl,Normal,170.0,No,0.0,Flat,Present
+41.0,male,Asymptomatic,130.0,179.0,FastingBS <= 120 mg/dl,ST-T wave abnormality,170.0,No,0.0,Up,Absent
+52.0,male,Asymptomatic,130.0,216.0,FastingBS <= 120 mg/dl,Normal,140.0,No,0.0,Flat,Present
+45.0,female,Typical Angina,150.0,199.0,FastingBS > 120 mg/dl,Normal,182.0,No,0.0,Up,Absent
+54.0,male,Asymptomatic,160.0,0.0,FastingBS > 120 mg/dl,probable or definite left ventricular hypertrophy by Estes criteria,127.0,No,0.0,Flat,Present
